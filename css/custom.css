@@ -1,5 +1,8 @@
 /* Custom Css Page */
 
+/*Waiting for page to fully render with JQuery:*/
+body {display: none;}
+
 /*Nav section*/
 #navee{list-style:none; margin:0; padding:0; text-align:center;}
 #navee li{display:inline;}
@@ -9,7 +12,7 @@ nav#navee ul#nav-list li.cent-fix a {padding-right:5%; padding-left:5%; border-r
 .nav-height {height: 30px; line-height: .01;}
 
 /*Slider Details*/
-.rounded{border-radius: 6px; margin-bottom: 1%;}
+.rounded{border-radius: 6px; margin-bottom: 2%;}
 
 /*Logo Section*/
 section#logo div#logo.row {margin-bottom: 0px;}

@@ -30,6 +30,9 @@
     <!-- Js Scripts End -->
     <script>
     $(window).load(function(){
+      //This 'body' jQuery will only load the fully rendered page when it is ready with js.  
+      $('body').show();
+      // nivoSlider instructions
       $('#slider').nivoSlider({
         effect: 'fade',
         animSpeed: 3000,
