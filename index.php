@@ -11,8 +11,8 @@
     <!-- Logo Nav Ends -->
     <!-- Home Page Slider Section -->
         <div class="row voffset3">
-          <div class="col-md-4 col-md-offset-4">
-            <div class="nivoSlider" id="slider">
+          <div class="col-md-6 col-md-offset-3">
+            <div class="rounded nivoSlider" id="slider">
               <img src="images/slide-1.png" class="center-block text-center slider-panel" alt="Welcome To Urban Calm">
               <img src="images/slider-2.jpg" class="center-block text-center slider-panel" alt="Welcome To Urban Calm">
               <img src="images/slider-3.jpg" class="center-block text-center slider-panel" alt="Welcome To Urban Calm">
@@ -30,8 +30,13 @@
     <!-- Js Scripts End -->
     <script>
     $(window).load(function(){
-      $('#slider').nivoSlider();
-      $(".nivo-prevNav, .nivo-nextNav, .nivo-controlNav").hide();
+      $('#slider').nivoSlider({
+        effect: 'fade',
+        animSpeed: 3000,
+        pauseTime: 8000,
+        directionNav: false,
+        controlNav: false 
+      });
     });
     </script>
   </body>
