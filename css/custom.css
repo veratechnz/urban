@@ -5,11 +5,8 @@
 #navee li{display:inline;}
 #navee a {display:inline-block; padding:10px;}
 .cent-fix a {color:#8D8887; font-weight: 100;}
-nav#navee ul#nav-list li.cent-fix a {padding-right:5%; padding-left:5%; border-right: #605C5B 2px solid; font-size: 13px;}
+nav#navee ul#nav-list li.cent-fix a {padding-right:5%; padding-left:5%; border-right: #a09d9d 2px solid; font-size: 13px;}
 .nav-height {height: 30px; line-height: .01;}
-
-/*Main slider Section*/
-div#main-slider.col-md-4.col-md-offset-4 {padding-left: 2%;}
 
 /*Logo Section*/
 section#logo div#logo.row {margin-bottom: 0px;}
@@ -18,14 +15,16 @@ section#logo div#logo.row {margin-bottom: 0px;}
 nav#navee ul#nav-list {margin-bottom: 2px; padding-left: 0px;}
 
 /*Google Fonts*/
-h1, h2, h3, h4, h5, h6 {font-family: 'Oswald', sans-serif: ;}
-p, div {font-family: 'Oswald', sans-serif;}
+h1, h2, h3, h4, h5, h6 {font-family: 'Oswald', sans-serif;}
+p, div {font-family: 'Oswald', sans-serif; color: #605c5b; font-weight: 100;}
 
 /* Vertical Offsets */
 .voffset  { margin-top: 15px;}
 .voffset1 { margin-top: 20px;}
 .voffset2 { margin-top: 40px;}
 .voffset3 { margin-top: 60px;}
+
+
 
 
 

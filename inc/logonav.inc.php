@@ -2,7 +2,7 @@
     <section id="logo">
         <div class="row" id="logo">
             <div class="col-md-6 col-md-offset-3">
-                <img src="images/logo.jpg" id="logo" class="img-responsive center-block" alt="Welcome To Urban Calm Logo">
+                <a href="index.php"><img src="images/logo.jpg" id="logo" class="img-responsive center-block" alt="Welcome To Urban Calm Logo"></a>
             </div>
         </div>
     </section>
