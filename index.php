@@ -8,7 +8,7 @@
     <div class="container">  
     <!-- Logo Nav Begins -->
     <?php include 'inc/logonav.inc.php';?>
-    <!-- Logo Nav Ends -->
+    <!-- Logo Nav Ends -->    
     <!-- Home Page Slider Section -->
         <div class="row voffset3">
           <div class="col-md-6 col-md-offset-3">
@@ -19,7 +19,7 @@
               <img src="images/slider-4.jpg" class="center-block text-center slider-panel" alt="Welcome To Urban Calm">
               <img src="images/slider-5.jpg" class="center-block text-center slider-panel" alt="Welcome To Urban Calm">
               </div>
-              <p class="text-center">Phone: 03 477 2277 &nbsp;|&nbsp; Level 1 Clarion Building, 286 Princess Street Dunedin.</p>
+              <p class="text-center homepara">Phone: 03 477 2277 &nbsp;|&nbsp; Level 1 Clarion Building, 286 Princess Street Dunedin.</p>
           </div>
         </div>
     <!-- Home Page Slider Section Ends -->
@@ -30,8 +30,6 @@
     <!-- Js Scripts End -->
     <script>
     $(window).load(function(){
-      //This 'body' jQuery will only load the fully rendered page when it is ready with js.  
-      $('body').show();
       // nivoSlider instructions
       $('#slider').nivoSlider({
         effect: 'fade',
@@ -40,7 +38,14 @@
         directionNav: false,
         controlNav: false 
       });
+      //This 'body' show is where jQuery will only load the fully rendered page when it is ready.  
+      $('body').show();
     });
     </script>
+    <!-- Non js fallback to override non-display issues that may arise. -->
+    <noscript>
+      <style>body{display: block;}</style>
+    </noscript>
+    <!-- End of non js fallback -->
   </body>
 </html>

@@ -11,8 +11,12 @@ body {display: none;}
 nav#navee ul#nav-list li.cent-fix a {padding-right:5%; padding-left:5%; border-right: #a09d9d 2px solid; font-size: 13px;}
 .nav-height {height: 30px; line-height: .01;}
 
+/*Mobile Nav*/
+.mobmenu{margin-top: 4%;}
+
 /*Slider Details*/
-.rounded{border-radius: 6px; margin-bottom: 2%;}
+.rounded{border-radius: 6px; margin-bottom: 3%;}
+.homepara{font-size: 14px;}
 
 /*Logo Section*/
 section#logo div#logo.row {margin-bottom: 0px;}
