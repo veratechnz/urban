@@ -22,12 +22,12 @@
             <div class="col-md-10 col-md-offset-1 nav-height">
                 <nav id="navee" class="nav-height">
                   <ul id="nav-list" class="nav-height">
-                    <li class="cent-fix nav-height "><a href="#">ABOUT</a></li>
-                    <li class="cent-fix nav-height "><a href="#">BOOKINGS</a></li>
-                    <li class="cent-fix nav-height "><a href="#">PHILOSOPHY</a></li>
-                    <li class="cent-fix nav-height "><a href="#">EVENTS</a></li>
-                    <li class="cent-fix nav-height "><a href="#">RESOURCES</a></li>
-                    <li class="cent-fix nav-height "><a href="#">CONTACT</a></li>
+                    <li class="cent-fix nav-height"><a href="#" class="float">ABOUT</a></li>
+                    <li class="cent-fix nav-height"><a href="#" class="float">BOOKINGS</a></li>
+                    <li class="cent-fix nav-height"><a href="#" class="float">PHILOSOPHY</a></li>
+                    <li class="cent-fix nav-height"><a href="#" class="float">EVENTS</a></li>
+                    <li class="cent-fix nav-height"><a href="#" class="float">RESOURCES</a></li>
+                    <li class="cent-fix nav-height"><a href="#" class="float">CONTACT</a></li>
                   </ul>
                 </nav>​
             </div>

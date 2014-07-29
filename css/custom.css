@@ -10,13 +10,16 @@ body {display: none;}
 .cent-fix a {color:#8D8887; font-weight: 100;}
 nav#navee ul#nav-list li.cent-fix a {padding-right:5%; padding-left:5%; border-right: #a09d9d 2px solid; font-size: 13px;}
 .nav-height {height: 30px; line-height: .01;}
+.nav-height a.float{text-decoration: none;}
+.nav-height a.float:hover{color:#373636;}
+.nav-height a.float:active{color:#373636;}
 
 /*Mobile Nav*/
 .mobmenu{margin-top: 4%;}
 
 /*Slider Details*/
-.rounded{border-radius: 6px; margin-bottom: 3%;}
-.homepara{font-size: 14px;}
+.rounded{border-radius: 6px;}
+.homepara{font-size: 12px;}
 
 /*Logo Section*/
 section#logo div#logo.row {margin-bottom: 0px;}
