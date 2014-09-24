@@ -1,0 +1,19 @@
+{
+  "name": "urban",
+  "version": "0.0.0",
+  "description": "Urban Calm Web Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/veratechnz/urban.git"
+  },
+  "author": "Jared Neems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veratechnz/urban/issues"
+  },
+  "homepage": "https://github.com/veratechnz/urban"
+}

@@ -13,11 +13,8 @@
         <div class="row voffset3">
           <div class="col-md-6 col-md-offset-3">
             <div class="rounded nivoSlider" id="slider">
-              <img src="images/slide-1.png" class="center-block text-center slider-panel" alt="Welcome To Urban Calm">
-              <img src="images/slider-2.jpg" class="center-block text-center slider-panel" alt="Welcome To Urban Calm">
-              <img src="images/slider-3.jpg" class="center-block text-center slider-panel" alt="Welcome To Urban Calm">
-              <img src="images/slider-4.jpg" class="center-block text-center slider-panel" alt="Welcome To Urban Calm">
-              <img src="images/slider-5.jpg" class="center-block text-center slider-panel" alt="Welcome To Urban Calm">
+              <img src="images/slider-1.jpg" class="center-block text-center slider-panel" alt="Welcome To Urban Calm">
+              <img src="images/slider-2.png" class="center-block text-center slider-panel" alt="Welcome To Urban Calm">
               </div>
               <p class="text-center homepara">Phone: 03 477 2277 &nbsp;|&nbsp; Level 1 Clarion Building, 286 Princess Street Dunedin.</p>
           </div>
@@ -28,24 +25,8 @@
     <!-- Js Scripts Begin -->
     <?php include 'inc/js.inc.php';?>
     <!-- Js Scripts End -->
-    <script>
-    $(window).load(function(){
-      // nivoSlider instructions
-      $('#slider').nivoSlider({
-        effect: 'fade',
-        animSpeed: 3000,
-        pauseTime: 8000,
-        directionNav: false,
-        controlNav: false 
-      });
-      //This 'body' show is where jQuery will only load the fully rendered page when it is ready.  
-      $('body').show();
-    });
-    </script>
-    <!-- Non js fallback to override non-display issues that may arise. -->
-    <noscript>
-      <style>body{display: block;}</style>
-    </noscript>
+    <!-- Non js fallback to override body element non-display issues that may arise. -->
+    <?php include 'inc/noscript.inc.php';?>
     <!-- End of non js fallback -->
   </body>
 </html>

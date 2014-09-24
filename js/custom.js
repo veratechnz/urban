@@ -1,29 +1,16 @@
-// //Custom JS For Bootstrap:
-
-// $(document).ready(function(){
-
-
-// 	//Declare a variable that relates to the grey ID on the document object model. 
-// 	var timetext = $('#grey');
-
-// //Hide timetext variable for the up coming fadein
-// 	$(timetext).hide();	
-
-// 	alert('We are alive!');
-
-// 	$('#red').click(function(){
-
-// 		$(this).hide(5000);
-
-// //This shows us that Jquery can traverse the DOM. ".next" gives us access to an elements next sibling
-
-// 		$(this).next().fadeOut(20000);
-
-// 		$(timetext).fadeIn(20000);
-
-
-// 	});
-
-
-
-// });
+    $(window).load(function(){
+      // nivoSlider instructions
+      $('#slider').nivoSlider({
+        effect: 'fade',
+        animSpeed: 3000,
+        pauseTime: 8000,
+        directionNav: false,
+        controlNav: false,
+        startSlide:1,
+        //This code is a work around that gets the slideshow to stop. It uses the slides slightly 
+        //out of order.
+        slideshowEnd: function(){$('#slider').data('nivo:vars').stop = true;} 
+      });
+      //This 'body' show is where jQuery will only load the fully rendered page when it is ready.  
+      $('body').show();
+    });
