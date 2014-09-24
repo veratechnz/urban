@@ -12,11 +12,11 @@
 <!-- Php Nav and Links End -->
   <div class="container">
         <div class="row" id="about-header">
-          <div class="col-lg-6 col-lg-push-11">
-            <h1>About</h1>
+          <div class="col-md-10 col-md-offset-1 header">
+            <h1>ABOUT</h1>
           </div>
-        </div>
-        <div class="row" id="about">
+            <div class="row">
+            <div class="col-md-10 col-md-offset-1">
             <div class="col-md-8">
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                 Consequatur, ea nihil repellendus nulla placeat veritatis
@@ -51,22 +51,24 @@
                 enim odio sunt corporis aliquid nobis distinctio rerum 
                 in eaque quibusdam magnam voluptatem iste autem.</p>
             </div>
-        </div>
 <!-- Flower image -->
             <div class="col-md-4" id="flower">
                 <img src="images/slide-1.png" class="img-responsive" alt="Urban calm logo">
-            </div>  
+            </div> 
+          </div>
+            </div> 
+        </div>
 <!-- Flower image Ends -->
 <!--About section Ends-->
 
 <!--Owner biography section-->
         <div class="row" id="owner-header">
-            <div class="col-lg-3 col-lg-push-10">
-              <h1>Owner Biography</h1>  
+            <div class="col-md-10 col-md-offset-1 header">
+              <h1>OWNER BIOGRAPHY</h1>  
             </div>  
         </div>
         <div class="row"  id="owner">
-            <div class="col-md-6 col-md-push-5">
+            <div class="col-md-6 col-md-push-5 inpad">
              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                 Consequatur, ea nihil repellendus nulla placeat veritatis
                 enim odio sunt corporis aliquid nobis distinctio rerum 
@@ -88,18 +90,18 @@
             </div>
 <!--Owner image -->
               <div class="col-md-2 col-md-pull-5">
-               <img src="images/slider-2.jpg" class="img-circle" class="img-responsive" alt="Owner">
+               <img src="images/slider-16.jpg" class="img-circle" class="img-responsive" alt="Owner">
             </div>
         </div>
 <!--Owner biography section Ends-->
 <!--Spiritual information section-->
         <div class="row" id="spiritual-header">
-          <div class="col-lg-3 col-lg-push-9">
-            <h1>Spiritual Information</h1>
+          <div class="col-md-10 col-md-offset-1 header">
+            <h1>SPIRITUAL INFORMATION</h1>
           </div>
         </div>
         <div class="row" id="spiritual">
-          <div class="col-md-6 col-md-push-1">
+          <div class="col-md-6 col-md-push-1 inpad">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
               Consequatur, ea nihil repellendus nulla placeat veritatis
               enim odio sunt corporis aliquid nobis distinctio rerum 
@@ -108,14 +110,11 @@
               Consequatur, ea nihil repellendus nulla placeat veritatis
               enim odio sunt corporis aliquid nobis distinctio rerum 
               in eaque quibusdam magnam voluptatem iste autem.</p>
-            <h2>Testimonial:  "Lorem ipsum dolor sit amet, consectetur 
-              adipisicing elit. Consequatur, ea nihil repellendus nulla
-              placeat veritatis enim odio sunt corporis aliquid nobis 
-              distinctio rerum in eaque quibusdam magnam voluptatem 
-              iste autem."</h2>
+            <h2>TESTIMONIAL: "THIS IS A TESTIMONIAL FROM A CLIENT THAT WE ARE 
+              USING AS DUMMY TEXT ON THIS NEW WB SITE FROM A PLACE" </h2>
           </div>
           <div class="col-md-6 col-md-push-1">
-            <img src="images/slider-8.jpg" class="img-circle" class="img-responsive" alt="Yoga Dunedin image">
+            <img src="images/slider-3.jpg" class="img-circle" class="img-responsive" alt="Yoga Dunedin image">
           </div>
         </div>
         <div class="row">

@@ -3,6 +3,13 @@
 /*Waiting for page to fully render with JQuery:*/
 body {display: none;}
 
+/*Fonts*/
+h1{font-weight: 300; font-size: 32px; letter-spacing: 0.28em;}
+h2{font-weight: 400; font-size: 26px; letter-spacing: 0.20em; font-style: italic; color: #484746;}
+
+/*Headings:*/
+h1{float: right;}
+.header{border-bottom: solid 1px; border-color: #bdbab9; margin-bottom: 2%; margin-top: 20px;}
 
 /*No Body Top Padding*/
 .notop{padding-top: 0px;}
@@ -41,73 +48,29 @@ p, div {font-family: 'Oswald', sans-serif; color: #605c5b; font-weight: 100;}
 .voffset2 { margin-top: 40px;}
 .voffset3 { margin-top: 60px;}
 
-
 /***********************Aidans:**********************************/
 
 /*About page*/
-#about{border-top: solid 1px;
-		border-color: #bdbab9;
-		padding-top: 30px;}
-
-#about h1{margin-top: 50px;}
-
-#about-header{margin-right: -20px;
-				margin-top: 50px;}
-
-#owner{border-top: solid 1px;
-		border-color: #bdbab9;
-		padding-top: 30px;
-		padding-bottom: 30px;}
-
 #owner img{width:300px;}
-
-#owner-header{margin-right: 15px;}
-
-#spiritual{border-top: solid 1px;
-			border-color: #bdbab9;
-			padding-top: 30px;}
-
 #spiritual-header{margin-right: -55px;}
-
 #spiritual h2{font-style: italic;}
-
 #about-address{margin-right: -335px;}
+.inpad{padding-top: 2%;}
 
 /*Events page*/
 
 #events-header{margin-right: -15px;}
-
-#events{border-top: solid 1px;
-		border-color: #bdbab9;
-		padding-top: 30px;}
-
+#events{padding-top: 30px;}
 #events img{width: 200px;}
-
 #events p{font-weight: 500;}
-
 #events img{}
-
 #address p{padding-left: 50px}
 
 /*Contact page*/
-
-#main h1{border-bottom: solid 1px;
-		border-color: #bdbab9;}
-
-
-
 #map{padding-top:30px;}
-
-#message-header{border-bottom: solid 1px;
-				border-color: #bdbab9;}
-
 #contact-form{border-color: #bdbab9;	
 			padding-top: 30px}
 
-
-
-#Contact{border-top: solid 1px;
-		border-color: #bdbab9;}
 
 
 

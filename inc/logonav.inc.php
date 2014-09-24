@@ -17,18 +17,20 @@
     <!-- Mobile Menu Ends -->
     <!-- Top Menu Section Start -->
     <section id="navigation" class="voffset hidden-xs">
+    <div class="container">
         <div class="row nav-height">
             <div class="col-md-10 col-md-offset-1 nav-height">
                 <nav id="navee" class="nav-height">
-                  <ul id="nav-list" class="nav-height">
-                    <li class="cent-fix nav-height"><a href="about.php" class="grow">ABOUT</a></li>
-                    <li class="cent-fix nav-height"><a href="contact.php" class="grow">BOOKINGS</a></li>
-                    <li class="cent-fix nav-height"><a href="#" class="grow">PHILOSOPHY</a></li>
-                    <li class="cent-fix nav-height"><a href="events.php" class="grow">EVENTS</a></li>
-                    <li class="cent-fix nav-height"><a href="#" class="grow">RESOURCES</a></li>
-                    <li class="cent-fix nav-height"><a href="#" class="grow">CONTACT</a></li>
-                  </ul>
-                </nav>​
+                        <ul id="nav-list" class="nav-height">
+                            <li class="cent-fix nav-height"><a href="about.php" class="grow">ABOUT</a></li>
+                            <li class="cent-fix nav-height"><a href="contact.php" class="grow">BOOKINGS</a></li>
+                            <li class="cent-fix nav-height"><a href="#" class="grow">PHILOSOPHY</a></li>
+                            <li class="cent-fix nav-height"><a href="events.php" class="grow">EVENTS</a></li>
+                            <li class="cent-fix nav-height"><a href="#" class="grow">RESOURCES</a></li>
+                            <li class="cent-fix nav-height"><a href="#" class="grow">CONTACT</a></li>
+                        </ul>
+                    </nav>​
+                </div>
             </div>
         </div>
     </section>
