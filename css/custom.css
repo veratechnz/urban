@@ -17,20 +17,18 @@ h1{float: right;}
 
 /*Nav section*/
 #nav-list.nav-height.navb li.cent-fix.nav-height a#pleft.navcss{padding-left: 0;}
-#noborder.cent-fix.nav-height a#pright.navcss {padding-right: 0;border-right: none;}
+#noborder.cent-fix.nav-height a#pright.navcss {padding-right: 0; border-right: none;}
 #pright{padding-right: 0;}
 html body section#about section#navigation.voffset.hidden-xs div.container div.row.nav-height div.col-md-10.col-md-offset-1.nav-height.nopad div#navee.nav-height.center-block ul#nav-list.nav-height.navb{padding: 0px;}
 #navee{list-style:none; margin:0; padding:0; width: 100%; margin-top: 1%}
 #navee li{display:inline;}
 #navee a {display:inline-block; padding:10px;}
 .navb{width: 196%;}
-.cent-fix a {color:#8D8887; font-weight: 100;}
+.cent-fix a {color:#514E4D; font-weight: 300;}
+.cent-fix a:hover {text-decoration: none;}
 #nav-list li.cent-fix a{padding-right:3%; padding-left:3%; border-right: #a09d9d 2px solid; font-size: 18px;}
 #nav-list.nav-height li#noborder.cent-fix.nav-height a#noborder{border-right: 0px;}
 .nav-height {height: 30px; line-height: .01;}
-.nav-height a.grow{text-decoration: none;}
-.nav-height a.grow:hover{color:#373636;}
-.nav-height a.grow:active{color:#373636;}
 .nopad{padding: 0px;}
 
 /*Bottom Logo Asset*/

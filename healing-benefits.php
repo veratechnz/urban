@@ -13,7 +13,7 @@
   <div class="container">
         <div class="row" id="about-header">
           <div class="col-md-10 col-md-offset-1 header">
-            <h1>ABOUT</h1>
+            <h1>Healing Benefits</h1>
           </div>
             <div class="row">
             <div class="col-md-10 col-md-offset-1">
@@ -96,7 +96,7 @@
             <h2>"WE PRACTICE YIN YOGA AT ROOM TEMPERATURE SO WE CAN TARGET THE CONNECTIVE TISSUE IN IT'S MOST ORGANIC STATE"  </h2>
           </div>
           <div class="col-md-6 col-md-push-1">
-            <img src="images/slider-24.jpg" class="img-circle" class="img-responsive" alt="Yoga Dunedin image">
+            <img src="images/slider-3.jpg" class="img-circle" class="img-responsive" alt="Yoga Dunedin image">
           </div>
         </div>
         <div class="row">

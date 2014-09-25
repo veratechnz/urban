@@ -24,9 +24,9 @@
                         <ul id="nav-list" class="nav-height navb">
                             <li class="cent-fix nav-height"><a href="about.php" class="navcss" id="pleft">ABOUT</a></li>
                             <li class="cent-fix nav-height"><a href="contact.php" class="navcss">BOOKINGS</a></li>
-                            <li class="cent-fix nav-height"><a href="#" class="navcss">PHILOSOPHY</a></li>
+                            <li class="cent-fix nav-height"><a href="health-benefits.php" class="navcss">HEALTH BENEFITS</a></li>
                             <li class="cent-fix nav-height"><a href="events.php" class="navcss">EVENTS</a></li>
-                            <li class="cent-fix nav-height"><a href="#" class="navcss">RESOURCES</a></li>
+                            <li class="cent-fix nav-height"><a href="teachers.php" class="navcss">TEACHERS</a></li>
                             <li class="cent-fix nav-height" id="noborder"><a href="#" class="navcss" id="pright">CONTACT</a></li>
                         </ul>
                     </div>​
