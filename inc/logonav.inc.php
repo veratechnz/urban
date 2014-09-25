@@ -19,17 +19,17 @@
     <section id="navigation" class="voffset hidden-xs">
     <div class="container">
         <div class="row nav-height">
-            <div class="col-md-10 col-md-offset-1 nav-height">
-                <nav id="navee" class="nav-height">
-                        <ul id="nav-list" class="nav-height">
-                            <li class="cent-fix nav-height"><a href="about.php" class="grow">ABOUT</a></li>
-                            <li class="cent-fix nav-height"><a href="contact.php" class="grow">BOOKINGS</a></li>
-                            <li class="cent-fix nav-height"><a href="#" class="grow">PHILOSOPHY</a></li>
-                            <li class="cent-fix nav-height"><a href="events.php" class="grow">EVENTS</a></li>
-                            <li class="cent-fix nav-height"><a href="#" class="grow">RESOURCES</a></li>
-                            <li class="cent-fix nav-height"><a href="#" class="grow">CONTACT</a></li>
+            <div class="col-md-10 col-md-offset-1 nav-height nopad">
+                <div id="navee" class="nav-height center-block">
+                        <ul id="nav-list" class="nav-height navb">
+                            <li class="cent-fix nav-height"><a href="about.php" class="navcss" id="pleft">ABOUT</a></li>
+                            <li class="cent-fix nav-height"><a href="contact.php" class="navcss">BOOKINGS</a></li>
+                            <li class="cent-fix nav-height"><a href="#" class="navcss">PHILOSOPHY</a></li>
+                            <li class="cent-fix nav-height"><a href="events.php" class="navcss">EVENTS</a></li>
+                            <li class="cent-fix nav-height"><a href="#" class="navcss">RESOURCES</a></li>
+                            <li class="cent-fix nav-height" id="noborder"><a href="#" class="navcss" id="pright">CONTACT</a></li>
                         </ul>
-                    </nav>​
+                    </div>​
                 </div>
             </div>
         </div>
