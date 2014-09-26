@@ -4,92 +4,122 @@
 <?php include 'inc/head.inc.php';?>
 <!-- Php Head Ends -->
 <body>
-	<!-- container begins -->  
+<!--About section-->
+<section id="about">
+<!-- Php Nav and Links -->
+<?php include 'inc/logonav.inc.php';?>
+<?php include 'inc/js.inc.php';?>
+<!-- Php Nav and Links End -->
+  <div class="container">
+        <div class="row" id="about-header">
+          <div class="col-md-10 col-md-offset-1 header">
+            <h1>EVENTS</h1>
+          </div>
+            <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+        <div class="row" id="events">     
+          <div class="col-md-3">
+            <img src="images/slider-6.jpg" class="img-circle" class="img-responsive" alt="image 1">
+            <h3>Opening Day</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+              Consequatur, ea nihil repellendus nulla placeat veritatis</p>  
+            </div>
+            <div class="col-md-3">
+              <img src="images/slider-7.jpg" class="img-circle" class="img-responsive" alt="image 1">
+              <h3>Timetable</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                Consequatur, ea nihil repellendus nulla placeat veritatis</p>     
+              </div>
+              <div class="col-md-3">
+                <img src="images/slider-5.jpg" class="img-circle" class="img-responsive" alt="image 1">
+                <h3>Yoga Abound</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                  Consequatur, ea nihil repellendus nulla placeat veritatis</p>     
+                </div>
+                <div class="col-md-3">
+                  <img src="images/slider-4.jpg" class="img-circle" class="img-responsive" alt="image 1">
+                  <h3>Free Session</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                    Consequatur, ea nihil repellendus nulla placeat veritatis</p>    
+                  </div>
+                </div>
+          </div>
+            </div> 
+        </div>
+<!-- Flower image Ends -->
+<!--About section Ends-->
 
-	<!-- /container ends -->
-	<!--About section-->
-	<section>
-		<section>
+<!--Owner biography section-->
+        <div class="row" id="owner-header">
+            <div class="col-md-10 col-md-offset-1 header">
+              <h1>OWNER BIOGRAPHY</h1>  
+            </div>  
+        </div>
+        <div class="row"  id="owner">
+            <div class="col-md-6 col-md-push-5 inpad">
+            <p>After travelling the world, Faye is relishing the chance to be home and celebrating what New Zealand 
+            and Dunedin has to offer. When photographer Marelda O’Rourke Gallaher and Faye were creating new images 
+            for Urban Calm, it only made sense to celebrate some of Faye’s favourite things about Dunedin. The 
+            beautiful new photographs show Faye in classic Yin poses in front of some of Dunedin’s iconic street 
+            art, and wearing Silkbody clothing.</p>
 
-			<?php include 'inc/logonav.inc.php';?>
-			<?php include 'inc/js.inc.php';?>
+            <p>When explaining why she chooses to Yin in Silkbody, Faye says, “I love to Yin in Silkbody as in Yin 
+            it feels like you go back to beginning of self, back to the cocoon that is home. Yin is a time to 
+            check in and Silkbody sets that feeling in the truest form of delicate comfort - Yin is a time to 
+            give back to self and you know you are truly giving back to self when you dress in Silkbody.”</p>
 
-			<div class="container">
-				<div class="row" id="events-header">
-					<div class="col-md-3 col-md-push-11">
-						<h1>Events</h1>
-					</div>
-				</div>
-				<div class="row" id="events">     
-					<div class="col-md-3">
-						<img src="images/slider-6.jpg" class="img-circle" class="img-responsive" alt="image 1">
-						<h3>Opening Day</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-							Consequatur, ea nihil repellendus nulla placeat veritatis
-							enim odio sunt corporis aliquid nobis distinctio rerum 
-							in eaque quibusdam magnam voluptatem iste autem.    
-						</div>
-						<div class="col-md-3">
-							<img src="images/slider-7.jpg" class="img-circle" class="img-responsive" alt="image 1">
-							<h3>Timetable</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-								Consequatur, ea nihil repellendus nulla placeat veritatis
-								enim odio sunt corporis aliquid nobis distinctio rerum 
-								in eaque quibusdam magnam voluptatem iste autem.    
-							</div>
-							<div class="col-md-3">
-								<img src="images/slider-5.jpg" class="img-circle" class="img-responsive" alt="image 1">
-								<h3>Yoga Abound</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-									Consequatur, ea nihil repellendus nulla placeat veritatis
-									enim odio sunt corporis aliquid nobis distinctio rerum 
-									in eaque quibusdam magnam voluptatem iste autem.    
-								</div>
-								<div class="col-md-3">
-									<img src="images/slider-4.jpg" class="img-circle" class="img-responsive" alt="image 1">
-									<h3>Free Session</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-										Consequatur, ea nihil repellendus nulla placeat veritatis
-										enim odio sunt corporis aliquid nobis distinctio rerum 
-										in eaque quibusdam magnam voluptatem iste autem.    
-									</div>
-								</div>
-							</div>
-						</div>
-						<br>
-						<div class="row">
-							<div class="col-md-3 col-md-push-2">
-								<img src="images/pagedevider900.png">
-							</div>
-						</div>
-						<br>
-						<div class="row" id="address">
-							<div class="col-md-12 col-md-offset-3">
-								<p>PHONE: 03-477-2277 | LEVEL 1, CLARION BUILDING, 286 PRINCES STREET, DUNEDIN</P>
-								</div>
-							</div>
-				</section>
-			
+            <p>Urban Calm seeks to be a safe haven in a harsh world and Faye’s vision certainly seems to be coming 
+            to life. We’re happy that Silkbody fits so perfectly into this vision - it’s great to know that our 
+            beautiful garments are being embraced and appreciated on so many levels. If you’re ever in Dunedin, 
+            we can recommend taking pause at Urban Calm. In Faye’s wise words - “slow down, take a breath and 
+            rethink in order to speed up”.</p>
 
+            </div>
+<!--Owner image -->
+              <div class="col-md-2 col-md-pull-5">
+               <img src="images/slider-16.jpg" class="img-circle" class="img-responsive" alt="Owner">
+            </div>
+        </div>
+<!--Owner biography section Ends-->
+<!--Spiritual information section-->
+        <div class="row" id="spiritual-header">
+          <div class="col-md-10 col-md-offset-1 header">
+            <h1>SPIRITUAL INFORMATION</h1>
+          </div>
+        </div>
+        <div class="row" id="spiritual">
+          <div class="col-md-6 col-md-push-1 inpad">
+            <p>Faye Winmill opened Urban Calm Yin Yoga Centre earlier this year, she was hoping to create a space 
+            where people could ‘switch off’ from life and tune in to their bodies. Safe, calm, warm and friendly, 
+            an environment where yoga wasn’t a competition or an exercise in sweat-gathering, but a deep breath 
+            of fresh air in the rat race of city life. Faye says, “I wanted to create a place where everything 
+            could be stopped even just for an hour. A place for people to give themselves permission to let all 
+            the things go that have been holding them back in their minds and in their lives.”</p>
+            
+            <p>And the moment you walk through the high glass doors, you get the feeling Faye is creating 
+            just that. Nestled in Dunedin’s historic precinct, The Exchange, Urban Calm is in a beautifully 
+            renovated brick building, complete with high ceilings and large windows allowing maximum natural 
+            light to filter into the studio. It’s minimal yet inviting so that even the aesthetic part of your 
+            brain gets a nice little holiday - even the yoga mats and supports are colour co-ordinated. Faye is 
+            also proud to offer Urban Calm as a Training Centre of Higher Learning where she intends to bring 
+            international teachers to continue to help people grow and learn on their life journey.</p>
 
-
-
-
-					<script>
-					$(window).load(function(){
-      //This 'body' jQuery will only load the fully rendered page when it is ready with js.  
-      $('body').show();
-      // nivoSlider instructions
-      $('#slider').nivoSlider({
-      	effect: 'fade',
-      	animSpeed: 3000,
-      	pauseTime: 8000,
-      	directionNav: false,
-      	controlNav: false 
-      });
-  });
-					</script>
-
-
-				</body>
-				</html>
+            <blockquote>
+            <h2>"WE PRACTICE YIN YOGA AT ROOM TEMPERATURE SO WE CAN TARGET THE CONNECTIVE TISSUE IN IT'S MOST ORGANIC STATE"  </h2>
+            </blockquote>
+          </div>
+          <div class="col-md-6 col-md-push-1">
+            <img src="images/slider-3.jpg" class="img-circle" class="img-responsive" alt="Yoga Dunedin image">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1">
+            <img src="images/pagedevider900.png" class="center-block">
+            <p class="text-center asset">Phone: 03-477-2277 | Level 1, Clarion Building, 286 Princes Street, Dunedin</p>
+          </div>
+        </div>
+  </div>
+<!--Spiritual information section ends-->
+</section>
+</body>
+</html>

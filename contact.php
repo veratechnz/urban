@@ -107,7 +107,7 @@ if(isset($_POST['submit'])) {
                     </div>
 
                     <div class="actions">
-                      <input type="submit" value="Send Your Message" name="submit" id="submitButton" class="btn btn-default btn-lg" title="Click here to submit your message!" />
+                      <input type="submit" value="SEND" name="submit" id="submitButton" class="btn btn-default btn-lg" title="Click here to submit your message!" />
                     </div>
                   </fieldset>
                 </form>

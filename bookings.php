@@ -32,22 +32,23 @@
                   hesitate to call us if you can not make class we understand here at Urban Calm that life is full of 
                   changes. <b class="light">PH: 03 477 2277</b></p>
                 <p>Public holiday times vary, please call or check Facebook for an up to date timetable. If you have allready 
-                  been for a class your information is already in so please use the LEFT hand side to Log In.</p>         
+                  been for a class your information is already in so please use the LEFT hand side to Log In.</p>  
+                <p><button type="button" class="btn btn-default btn-lg center-block">BOOK TODAY</button></p>       
             <hr>  
             </div>
             <!-- Booking Info Ends -->
             <!-- CTA Buttons -->
             <div class="col-md-4 vboffset">
               <h3 class="text-center">TEACHER TRAINING</h3>
-              <button type="button" class="btn btn-default btn-lg center-block">BOOK TODAY</button>
+              <button type="button" class="btn btn-default btn-lg center-block">BOOKINGS</button>
             </div>
             <div class="col-md-4 vboffset">
               <h3 class="text-center">PAYMENTS ONLINE</h3>
-              <button type="button" class="btn btn-default btn-lg center-block">BOOK TODAY</button>
+              <button type="button" class="btn btn-default btn-lg center-block">BOOKINGS</button>
             </div>
             <div class="col-md-4 vboffset">
               <h3 class="text-center">BOOK YOUR CLASS</h3>
-              <button type="button" class="btn btn-default btn-lg center-block">BOOK TODAY</button>
+              <button type="button" class="btn btn-default btn-lg center-block">BOOKINGS</button>
             </div>
             <!-- CTA Buttons End -->
             <!-- Blockquote -->

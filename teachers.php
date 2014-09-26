@@ -29,7 +29,7 @@
                 simply that its benefits and practice goes beyond the limitations of  mechanistic thinking and relate to mental, 
                 bodily and spiritual health. </p>   
               <blockquote>   
-              <h2>"Yin Yoga is an artform, not an exact science." </h2>   
+              <h2>"YIN YOGA IS AN ARTFORM, NOT AN EXACT SCIENCE." </h2>   
               </blockquote>     
             </div>
 <!-- Flower image -->
@@ -70,7 +70,7 @@
 
               <p>It am so looking forward to be-ing on the mat beside you, and sharing this special space.</p> 
               <blockquote>
-              <h2>"I first discovered the joy and transformation of yoga 20 years ago" </h2> 
+              <h2>"I FIRST DISCOVERED THE JOY AND THE TRANSFORMATION OF YOGA 20 YEARS AGO" </h2> 
               </blockquote>       
             </div>
 <!-- Flower image -->
@@ -107,7 +107,7 @@
 
               <p>I look forward to growing with all of you as we study Yin further.</p>
               <blockquote>
-              <h2>"Tissue unwinds when the mind gives it time." </h2>  
+              <h2>"TISSUE UNWINDS WHEN THE MIND GIVES IT TIME." </h2>  
               </blockquote>      
             </div>
 <!-- Flower image -->
@@ -143,8 +143,8 @@
             <p>A couple of months later and this californian has settled ashore., making Dunedin my new home.</p>
 
             <p>I have a love for the ocean nature and animals after growing up in California.</p>
-            <blockquote>
-            <h2>"Storms ahead nasty sea, dead winter, arctic winds, righto, to Dunedin they say!"</h2> 
+            <blockquote> 
+            <h2>"STORMS AHEAD NASTY SEA, DEAD WINTER, ARTIC WINDS, RIGHTO, TO DUNEDIN THEY SAY!"</h2> 
             </blockquote>
             </div>
 <!-- Flower image -->
