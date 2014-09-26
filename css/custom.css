@@ -4,7 +4,8 @@
 body {display: none;}
 
 /*Fonts*/
-p{font-size: 18px;}
+p{font-size: 18px; font-weight: 300;}
+.label-new{font-size: 18px; font-weight: 300;}
 h1{font-weight: 300; font-size: 32px; letter-spacing: 0.28em; float: right;}
 h2{font-weight: 300; font-size: 22px; letter-spacing: 0.20em; font-style: italic; color: #484746;}
 h3{font-weight: 300; font-size: 22px; letter-spacing: 0.20em; color: #484746;}
@@ -59,6 +60,7 @@ p, div {font-family: 'Oswald', sans-serif; color: #605c5b; font-weight: 100;}
 .voffset2 { margin-top: 40px;}
 .voffset3 { margin-top: 60px;}
 .vboffset  { margin-bottom: 2%;}
+.vboffset1  { margin-bottom: 4%;}
 
 /***********************Aidans:**********************************/
 

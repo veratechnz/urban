@@ -99,7 +99,7 @@
             </blockquote>
           </div>
           <div class="col-md-6 col-md-push-1">
-            <img src="images/slider-24.jpg" class="img-circle" class="img-responsive" alt="Yoga Dunedin image">
+            <img src="images/slider-3.jpg" class="img-circle" class="img-responsive" alt="Yoga Dunedin image">
           </div>
         </div>
         <div class="row">
