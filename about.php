@@ -25,8 +25,9 @@
                <p> The connective tissue is like plastic in fibre so it requires time to open (explaining the need for long holds.) 
                This is when Yin becomes fascinating as each minute goes by, we feel the body open naturally - breathing into the tension and then exhaling to find that we have more space. With each breath the body sinks a little deeper.
                Please use our online booking system to book your class today.</p>    
-
+              <blockquote>
               <h2>"JUST ONE HOUR OF YIN YOGA ENABLES US TO PRESS THE RESTART BUTTON ON OUR ENTIRE NERVOUS SYSTEM." </h2>        
+              </blockquote>
             </div>
 <!-- Flower image -->
             <div class="col-md-4" id="flower">
@@ -93,7 +94,9 @@
             also proud to offer Urban Calm as a Training Centre of Higher Learning where she intends to bring 
             international teachers to continue to help people grow and learn on their life journey.</p>
 
+            <blockquote>
             <h2>"WE PRACTICE YIN YOGA AT ROOM TEMPERATURE SO WE CAN TARGET THE CONNECTIVE TISSUE IN IT'S MOST ORGANIC STATE"  </h2>
+            </blockquote>
           </div>
           <div class="col-md-6 col-md-push-1">
             <img src="images/slider-24.jpg" class="img-circle" class="img-responsive" alt="Yoga Dunedin image">

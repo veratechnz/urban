@@ -27,8 +27,10 @@
                 that "Yin yoga is an art form, not an exact science", but this does not mean that its healing benefits 
                 are not demonstrable (there is good evidence, scientific and anecdotal for many of the healing benefits), 
                 simply that its benefits and practice goes beyond the limitations of  mechanistic thinking and relate to mental, 
-                bodily and spiritual health. </p>      
-              <h2>"Yin Yoga is an artform, not an exact science." </h2>        
+                bodily and spiritual health. </p>   
+              <blockquote>   
+              <h2>"Yin Yoga is an artform, not an exact science." </h2>   
+              </blockquote>     
             </div>
 <!-- Flower image -->
             <div class="col-md-4" id="flower">
@@ -67,8 +69,9 @@
               need, in the moment. To simply be....</p>
 
               <p>It am so looking forward to be-ing on the mat beside you, and sharing this special space.</p> 
-
-              <h2>"I first discovered the joy and transformation of yoga 20 years ago" </h2>        
+              <blockquote>
+              <h2>"I first discovered the joy and transformation of yoga 20 years ago" </h2> 
+              </blockquote>       
             </div>
 <!-- Flower image -->
           </div>
@@ -103,8 +106,9 @@
               membranes.</p>
 
               <p>I look forward to growing with all of you as we study Yin further.</p>
-
-              <h2>"Tissue unwinds when the mind gives it time." </h2>        
+              <blockquote>
+              <h2>"Tissue unwinds when the mind gives it time." </h2>  
+              </blockquote>      
             </div>
 <!-- Flower image -->
             <div class="col-md-4" id="flower">
@@ -139,9 +143,9 @@
             <p>A couple of months later and this californian has settled ashore., making Dunedin my new home.</p>
 
             <p>I have a love for the ocean nature and animals after growing up in California.</p>
-
+            <blockquote>
             <h2>"Storms ahead nasty sea, dead winter, arctic winds, righto, to Dunedin they say!"</h2> 
-         
+            </blockquote>
             </div>
 <!-- Flower image -->
           </div>
