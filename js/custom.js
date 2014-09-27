@@ -3,7 +3,7 @@
       $('#slider').nivoSlider({
         effect: 'fade',
         animSpeed: 3000,
-        pauseTime: 8000,
+        pauseTime: 4000,
         directionNav: false,
         controlNav: false,
         startSlide:1,

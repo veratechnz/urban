@@ -112,19 +112,14 @@ if(isset($_POST['submit'])) {
                   </fieldset>
                 </form>
               </div>
+              <?php include 'inc/cta.inc.php';?>
             </div>
         </div>
       </div>
-    </div>
-<!-- Container End --></div>
-        <div class="row">
-          <div class="col-md-10 col-md-offset-1">
-            <img src="images/pagedevider900.png" class="center-block">
-            <p class="text-center asset">Phone: 03-477-2277 | Level 1, Clarion Building, 286 Princes Street, Dunedin</p>
-          </div>
-      </div>
+<!-- Container End -->
   </div>
 <!--Spiritual information section ends-->
+<?php include 'inc/footer.inc.php';?>
 </section>
 </body>
 </html>

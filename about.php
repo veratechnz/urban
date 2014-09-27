@@ -31,7 +31,7 @@
             </div>
 <!-- Flower image -->
             <div class="col-md-4" id="flower">
-                <img src="images/slide-1.png" class="img-responsive" alt="Urban calm logo">
+                <img src="images/urb.jpg" class="img-responsive img-circle owned">
             </div> 
           </div>
             </div> 
@@ -46,7 +46,14 @@
             </div>  
         </div>
         <div class="row"  id="owner">
-            <div class="col-md-6 col-md-push-5 inpad">
+            <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+              <!--Owner image -->
+              <div class="col-md-4">
+               <img src="images/slider-16.jpg" class="img-circle owned" class="img-responsive" alt="Owner">
+            </div>
+            <!-- Owner Image Ends -->
+            <div class="col-md-8">
             <p>After travelling the world, Faye is relishing the chance to be home and celebrating what New Zealand 
             and Dunedin has to offer. When photographer Marelda O’Rourke Gallaher and Faye were creating new images 
             for Urban Calm, it only made sense to celebrate some of Faye’s favourite things about Dunedin. The 
@@ -63,13 +70,10 @@
             beautiful garments are being embraced and appreciated on so many levels. If you’re ever in Dunedin, 
             we can recommend taking pause at Urban Calm. In Faye’s wise words - “slow down, take a breath and 
             rethink in order to speed up”.</p>
-
-            </div>
-<!--Owner image -->
-              <div class="col-md-2 col-md-pull-5">
-               <img src="images/slider-16.jpg" class="img-circle" class="img-responsive" alt="Owner">
             </div>
         </div>
+      </div>
+      </div>
 <!--Owner biography section Ends-->
 <!--Spiritual information section-->
         <div class="row" id="spiritual-header">
@@ -77,8 +81,10 @@
             <h1>SPIRITUAL INFORMATION</h1>
           </div>
         </div>
-        <div class="row" id="spiritual">
-          <div class="col-md-6 col-md-push-1 inpad">
+      <div class="row">
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1">
+           <div class="col-md-8 inpad">
             <p>Faye Winmill opened Urban Calm Yin Yoga Centre earlier this year, she was hoping to create a space 
             where people could ‘switch off’ from life and tune in to their bodies. Safe, calm, warm and friendly, 
             an environment where yoga wasn’t a competition or an exercise in sweat-gathering, but a deep breath 
@@ -98,16 +104,12 @@
             <h2>"WE PRACTICE YIN YOGA AT ROOM TEMPERATURE SO WE CAN TARGET THE CONNECTIVE TISSUE IN IT'S MOST ORGANIC STATE"  </h2>
             </blockquote>
           </div>
-          <div class="col-md-6 col-md-push-1">
-            <img src="images/slider-3.jpg" class="img-circle" class="img-responsive" alt="Yoga Dunedin image">
+          <div class="col-md-4">
+            <img src="images/slider-3.jpg" class="img-circle owned" class="img-responsive" alt="Yoga Dunedin image">
           </div>
         </div>
-        <div class="row">
-          <div class="col-md-10 col-md-offset-1">
-            <img src="images/pagedevider900.png" class="center-block">
-            <p class="text-center asset">Phone: 03-477-2277 | Level 1, Clarion Building, 286 Princes Street, Dunedin</p>
-          </div>
-        </div>
+      </div>
+    </div>
   </div>
 <!--Spiritual information section ends-->
 </section>
