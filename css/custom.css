@@ -49,12 +49,26 @@ html body section#about section#navigation.voffset.hidden-xs div.container div.r
 
 /*Logo Section*/
 section#logo div#logo.row {margin-bottom: 0px;}
+#logo{margin-top: 2%;}
 
 /*Fix bootstrap padding and alignment*/
 nav#navee ul#nav-list {margin-bottom: 2px; padding-left: 0px;}
 
 /*Footer*/
-#footer{ padding: 2%; background-color: #efefef;}
+/* Sticky footer styles
+-------------------------------------------------- */
+html,
+body {height: 100%;}
+#wrap {min-height: 100%;height: auto;margin: 0 auto -200px; padding: 0 0 200px;}
+#footer{padding: 1%; background-color: #BDBAB9; color: #fff; height: 250px;}
+.footy{color: #fff;}
+.footyspan{padding-left: 2%;}
+.footyspanb{padding-left: 4%;}
+.footyhead{color: #fff; border-bottom: 1px solid #fff; padding-bottom: 2%; width: 80%;}
+.footmap{width: 430px; height: 163px; margin-top: 4%; float: right;margin-right: 8%;}
+.footicon{color:#8D8887;}
+.footyiconsb{float: right;}
+.foots{margin:2px;}
 
 /* Vertical Offsets */
 .voffset  { margin-top: 15px;}

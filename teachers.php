@@ -4,6 +4,7 @@
 <?php include 'inc/head.inc.php';?>
 <!-- Php Head Ends -->
 <body>
+  <div id="wrap">
 <!--About section-->
 <section id="about">
 <!-- Php Nav and Links -->
@@ -152,13 +153,9 @@
             </div> 
         </div>
 <!-- Container End --></div>
-        <div class="row">
-          <div class="col-md-10 col-md-offset-1">
-            <img src="images/pagedevider900.png" class="center-block">
-            <p class="text-center asset">Phone: 03-477-2277 | Level 1, Clarion Building, 286 Princes Street, Dunedin</p>
-          </div>
-        </div>
-  </div>
+</div>
+</div>
+<?php include 'inc/footer.inc.php';?>
 <!--Spiritual information section ends-->
 </section>
 </body>

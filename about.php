@@ -4,6 +4,7 @@
 <?php include 'inc/head.inc.php';?>
 <!-- Php Head Ends -->
 <body>
+  <div id="wrap">
 <!--About section-->
 <section id="about">
 <!-- Php Nav and Links -->
@@ -106,11 +107,14 @@
           </div>
           <div class="col-md-4">
             <img src="images/slider-3.jpg" class="img-circle owned" class="img-responsive" alt="Yoga Dunedin image">
+              </div>
+           </div>
           </div>
-        </div>
-      </div>
+         </div>
+       </div> <!-- ContainerEnds -->
     </div>
   </div>
+  <?php include 'inc/footer.inc.php';?>
 <!--Spiritual information section ends-->
 </section>
 </body>

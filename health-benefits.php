@@ -4,6 +4,7 @@
 <?php include 'inc/head.inc.php';?>
 <!-- Php Head Ends -->
 <body>
+  <div id="wrap">
 <!--About section-->
 <section id="about">
 <!-- Php Nav and Links -->
@@ -76,6 +77,9 @@
         </div>
 <!--Owner biography section Ends-->
 <!-- Container End --></div>
+      </div>
+    </div>
+    <?php include 'inc/footer.inc.php';?>
 <!--Spiritual information section ends-->
 </section>
 </body>

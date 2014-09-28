@@ -4,6 +4,7 @@
 <?php include 'inc/head.inc.php';?>
 <!-- Php Head Ends -->
 <body>
+  <div id="wrap">
 <!--About section-->
 <section id="about">
 <!-- Php Nav and Links -->
@@ -19,8 +20,10 @@
             <div class="col-md-10 col-md-offset-1">
               <img src="images/bookings.jpg" alt="dunedin-yoga-studio-image" class="img-rounded center-block">
             <div class="col-md-12">
+              <hr>
               <!-- Booking Info -->
               <h3>JUMP ONLINE TO BOOK YOUR YIN YOGA SESSION AND GAURANTEE YOUR SPACE:</h3>
+              <hr>
                 <p><b class="light">1.</b> Log in to our MindBody Online booking system ( if you have never logged in 
                 before, you will need to create an account by entering your name and the email 
                 address ).</p>
@@ -57,19 +60,15 @@
             <blockquote>
             <h2>"THIS IS WHEN YIN BECOMES FASCINATING AS EACH MINUTE GOES BY, WE FEEL THE BODY OPEN NATURALLY"</h2>
             </blockquote>
-            <hr>
             </div>
             <!-- Blockquote End -->
           </div>
             </div> 
         </div>
 <!-- Container End --></div>
-        <div class="row">
-          <div class="col-md-10 col-md-offset-1">
-            <img src="images/pagedevider900.png" class="center-block">
-            <p class="text-center asset">Phone: 03-477-2277 | Level 1, Clarion Building, 286 Princes Street, Dunedin</p>
-          </div>
-        </div>
+      </div>
+      </div>
+<?php include 'inc/footer.inc.php';?>
   </div>
 <!--Spiritual information section ends-->
 </section>

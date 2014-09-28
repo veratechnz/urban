@@ -54,6 +54,7 @@ if(isset($_POST['submit'])) {
 <?php include 'inc/head.inc.php';?>
 <!-- Php Head Ends -->
 <body>
+  <div id="wrap">
 <!--About section-->
 <section id="about">
 <!-- Php Nav and Links -->
@@ -70,7 +71,7 @@ if(isset($_POST['submit'])) {
             </div>
               <p class="voffset1"><i class="fa fa-phone"></i>&nbsp;03 477 2277</p>
               <p><i class="fa fa-envelope-o"></i>&nbsp;faye@urbancalm.co.nz</p>
-              <p class="vboffset1"><i class="fa fa-map-marker"></i>&nbsp;Level 1 Clarion Building<br>286 Princess Street dunedin</p>
+              <p class="vboffset1"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Level 1 Clarion Building<br>286 Princess Street dunedin</p>
               <img src="images/map.jpg" alt="" class="img-rounded img-responsive vboffset1">
               <button type="button" class="btn btn-default btn-lg center-block voffset2">BOOK TODAY</button>
             </div>
@@ -118,6 +119,8 @@ if(isset($_POST['submit'])) {
       </div>
 <!-- Container End -->
   </div>
+  </div>
+</div>
 <!--Spiritual information section ends-->
 <?php include 'inc/footer.inc.php';?>
 </section>

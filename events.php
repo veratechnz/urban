@@ -4,6 +4,7 @@
 <?php include 'inc/head.inc.php';?>
 <!-- Php Head Ends -->
 <body>
+  <div id="wrap">
 <!--About section-->
 <section id="about">
 <!-- Php Nav and Links -->
@@ -80,8 +81,12 @@
                <img src="images/slider-16.jpg" class="img-circle" class="img-responsive" alt="Owner">
             </div>
         </div>
+          <?php include 'inc/cta.inc.php';?>
+      </div> <!-- Container Ends -->
 <!--Owner biography section Ends-->
-<?php include 'inc/cta.inc.php';?>
+  </div>
+</div>
+<?php include 'inc/footer.inc.php';?>
 </section>
 </body>
 </html>
