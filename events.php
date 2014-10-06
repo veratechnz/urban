@@ -11,7 +11,7 @@
 <?php include 'inc/logonav.inc.php';?>
 <?php include 'inc/js.inc.php';?>
 <!-- Php Nav and Links End -->
-  <div class="container">
+  <div class="container fader">
         <div class="row" id="about-header">
           <div class="col-md-10 col-md-offset-1 header">
             <h1>EVENTS</h1>
@@ -27,13 +27,13 @@
               </div>
               <div class="col-md-3">
                   <img src="images/slider-4.jpg" class="img-circle" class="img-responsive" alt="image 1">
-                  <h3>Free Session</h3>
+                  <h3>T.B.C</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                     Consequatur, ea nihil repellendus nulla placeat veritatis</p>    
               </div>
             <div class="col-md-3">
               <img src="images/slider-6.jpg" class="img-circle" class="img-responsive" alt="image 1">
-              <h3>Opening Day</h3>
+              <h3>T.B.C</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
               Consequatur, ea nihil repellendus nulla placeat veritatis</p>  
             </div>

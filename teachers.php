@@ -11,10 +11,10 @@
 <?php include 'inc/logonav.inc.php';?>
 <?php include 'inc/js.inc.php';?>
 <!-- Php Nav and Links End -->
-  <div class="container">
+  <div class="container fader">
         <div class="row" id="about-header">
           <div class="col-md-10 col-md-offset-1 header">
-            <h1>FAYE</h1>
+            <h1>FAYE EXTENDED</h1>
           </div>
             <div class="row">
             <div class="col-md-10 col-md-offset-1">

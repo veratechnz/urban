@@ -11,14 +11,14 @@
 <?php include 'inc/logonav.inc.php';?>
 <?php include 'inc/js.inc.php';?>
 <!-- Php Nav and Links End -->
-  <div class="container">
+  <div class="container fader">
         <div class="row" id="about-header">
           <div class="col-md-10 col-md-offset-1 header">
             <h1>BOOKINGS</h1>
           </div>
             <div class="row">
             <div class="col-md-10 col-md-offset-1">
-              <img src="images/bookings.jpg" alt="dunedin-yoga-studio-image" class="img-rounded center-block">
+              <img src="images/contact.jpg" alt="dunedin-yoga-studio-image" class="img-rounded center-block">
             <div class="col-md-12">
               <hr>
               <!-- Booking Info -->
@@ -36,35 +36,53 @@
                   changes. <b class="light">PH: 03 477 2277</b></p>
                 <p>Public holiday times vary, please call or check Facebook for an up to date timetable. If you have allready 
                   been for a class your information is already in so please use the LEFT hand side to Log In.</p>  
-                <p><button type="button" class="btn btn-default btn-lg center-block">BOOK TODAY</button></p>       
-            <hr>  
+                <p><button type="button" class="btn btn-default btn-lg center-block">BOOK TODAY</button></p>        
             </div>
             <!-- Booking Info Ends -->
+          </div>
+        </div> 
+      </div>
+  <!-- Timetable & Pricing -->
+      <div class="row" id="about-header">
+        <div class="col-md-10 col-md-offset-1 header">
+            <h1>TIMETABLE & PRICING</h1>
+          </div>
+            <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+            <div class="col-md-12">
+              <div class="col-md-6"><img src="images/timetable.jpg" alt="" class="center-block"></div>
+              <div class="col-md-6"><img src="images/prices.jpg" alt="" class="center-block"></div>            
+            </div>
+            <hr>
+            <!-- Booking Info Ends -->
             <!-- CTA Buttons -->
-            <div class="col-md-4 vboffset">
-              <h3 class="text-center">TEACHER TRAINING</h3>
-              <button type="button" class="btn btn-default btn-lg center-block">BOOKINGS</button>
+            <div class="wrapt">
+              <div class="col-md-4 vboffset voffset">
+                <h3 class="text-center">TEACHER TRAINING</h3>
+                <button type="button" class="btn btn-default btn-lg center-block">BOOKINGS</button>
+              </div>
+              <div class="col-md-4 vboffset voffset">
+                <h3 class="text-center">PAYMENTS ONLINE</h3>
+                <button type="button" class="btn btn-default btn-lg center-block">BOOKINGS</button>
+              </div>
+              <div class="col-md-4 vboffset voffset">
+                <h3 class="text-center">BOOK YOUR CLASS</h3>
+                <button type="button" class="btn btn-default btn-lg center-block">BOOKINGS</button>
+              </div>
             </div>
-            <div class="col-md-4 vboffset">
-              <h3 class="text-center">PAYMENTS ONLINE</h3>
-              <button type="button" class="btn btn-default btn-lg center-block">BOOKINGS</button>
-            </div>
-            <div class="col-md-4 vboffset">
-              <h3 class="text-center">BOOK YOUR CLASS</h3>
-              <button type="button" class="btn btn-default btn-lg center-block">BOOKINGS</button>
-            </div>
+              <hr>
             <!-- CTA Buttons End -->
             <!-- Blockquote -->
-            <div class="col-md-12 vboffset">
-              <hr>
-            <blockquote>
-            <h2>"THIS IS WHEN YIN BECOMES FASCINATING AS EACH MINUTE GOES BY, WE FEEL THE BODY OPEN NATURALLY"</h2>
-            </blockquote>
-            </div>
+              <div class="col-md-12 vboffset">
+              <blockquote class="cquote">
+              <h2>"THIS IS WHEN YIN BECOMES FASCINATING AS EACH MINUTE GOES BY, WE FEEL THE BODY OPEN NATURALLY"</h2>
+              </blockquote>
+              </div>
             <!-- Blockquote End -->
           </div>
-            </div> 
-        </div>
+        </div> 
+      </div>
+  <!-- Timetable & Pricing Ends -->
 <!-- Container End --></div>
       </div>
       </div>

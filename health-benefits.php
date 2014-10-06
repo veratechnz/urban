@@ -11,7 +11,7 @@
 <?php include 'inc/logonav.inc.php';?>
 <?php include 'inc/js.inc.php';?>
 <!-- Php Nav and Links End -->
-  <div class="container">
+  <div class="container fader">
         <div class="row" id="about-header">
           <div class="col-md-10 col-md-offset-1 header">
             <h1>HEALTH BENEFITS</h1>
@@ -48,7 +48,7 @@
               <h1>DEMONSTRATABLE BENEFITS</h1>  
             </div>  
         </div>
-        <div class="row"  id="owner">
+        <div class="row vboffset1"  id="owner">
             <div class="col-md-6 col-md-push-5 inpad">
             <p>Although the list is not complete, Yin yoga has demonstratable benefits in the following areas</p>
               

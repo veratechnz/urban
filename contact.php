@@ -61,7 +61,7 @@ if(isset($_POST['submit'])) {
 <?php include 'inc/logonav.inc.php';?>
 <?php include 'inc/js.inc.php';?>
 <!-- Php Nav and Links End -->
-  <div class="container">
+  <div class="container fader">
     <div class="row">
       <div class="col-sm-10 col-md-offset-1">
         <div class="row">
@@ -69,11 +69,11 @@ if(isset($_POST['submit'])) {
             <div class="headerb">
               <h1>CONTACT</h1>
             </div>
-              <p class="voffset1"><i class="fa fa-phone"></i>&nbsp;03 477 2277</p>
+              <p class="voffset1"><i class="fa fa-phone voffset4"></i>&nbsp;03 477 2277</p>
               <p><i class="fa fa-envelope-o"></i>&nbsp;faye@urbancalm.co.nz</p>
               <p class="vboffset1"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Level 1 Clarion Building<br>286 Princess Street dunedin</p>
-              <img src="images/map.jpg" alt="" class="img-rounded img-responsive vboffset1">
-              <button type="button" class="btn btn-default btn-lg center-block voffset2">BOOK TODAY</button>
+              <img src="images/map.jpg" alt="" class="img-rounded img-responsive vboffset">
+              <button type="button" class="btn btn-default btn-lg center-block voffset5">BOOK TODAY</button>
             </div>
             <div class="col-md-8">
              <div class="headerb">
@@ -108,12 +108,20 @@ if(isset($_POST['submit'])) {
                     </div>
 
                     <div class="actions">
-                      <input type="submit" value="SEND" name="submit" id="submitButton" class="btn btn-default btn-lg" title="Click here to submit your message!" />
+                      <input type="submit" value="SEND" name="submit" id="submitButton" class="btn btn-default btn-lg voffset4" title="Click here to submit your message!" />
                     </div>
                   </fieldset>
                 </form>
               </div>
-              <?php include 'inc/cta.inc.php';?>
+            <!-- Blockquote -->
+            <div class="col-md-12 vboffset2 voffset1">
+              <hr>
+            <blockquote>
+            <h2>"THIS IS WHEN YIN BECOMES FASCINATING AS EACH MINUTE GOES BY, WE FEEL THE BODY OPEN NATURALLY"</h2>
+            </blockquote>
+            <hr>
+            </div>
+            <!-- Blockquote End -->
             </div>
         </div>
       </div>

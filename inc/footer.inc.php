@@ -1,5 +1,5 @@
-    <div class="container-fluid" id="footer">
-    	<div class="container">
+    <div class="container-fluid fader" id="footer">
+    	<div class="container fader">
       <div class="row">
           <div class="col-md-6">
             <img src="images/map.jpg" class="center-block footmap">

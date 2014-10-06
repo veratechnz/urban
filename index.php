@@ -10,7 +10,7 @@
 <?php include 'inc/logonav.inc.php';?>
 <?php include 'inc/js.inc.php';?>
 <!-- Php Nav and Links End -->
-  <div class="container">  
+  <div class="container fader">  
     <!-- Home Page Slider Section -->
         <div class="row voffset3">
           <div class="col-md-6 col-md-offset-3">
