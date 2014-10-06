@@ -10,9 +10,9 @@
     <!-- Top Logo Section End -->
     <!-- Mobile Menu Begins -->
     <div class="mobmenu visible-xs">
-    <button type="button" class="btn btn-primary btn-lg btn-block">Home</button>
+    <button type="button" class="btn btn-default btn-lg btn-block">Home</button>
     <button type="button" class="btn btn-default btn-lg btn-block">Bookings</button>
-    <button type="button" class="btn btn-primary btn-lg btn-block">About</button>
+    <button type="button" class="btn btn-default btn-lg btn-block">About</button>
     <button type="button" class="btn btn-default btn-lg btn-block">Contact</button>
     </div>
     <!-- Mobile Menu Ends -->

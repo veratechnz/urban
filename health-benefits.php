@@ -50,7 +50,7 @@
         </div>
         <div class="row vboffset1"  id="owner">
             <div class="col-md-6 col-md-push-5 inpad">
-            <p>Although the list is not complete, Yin yoga has demonstrable benefits in the following areas</p>
+            <p>Although the list is not complete, Yin yoga has demonstrable benefits in the following areas:</p>
               
             <ul>
               <li>Calming and balancing of the mind and body</li>
@@ -68,6 +68,7 @@
               <li>Deeper Relaxation</li>
               <li>Better ability to sit for meditation</li>
             </ul>
+            <p>You can find more information on the demonstrable benefits of Yin Yoga <a href="">HERE.</a></p>
 
             </div>
 <!--Owner image -->
