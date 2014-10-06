@@ -79,33 +79,31 @@
 <!--Spiritual information section-->
         <div class="row" id="spiritual-header">
           <div class="col-md-10 col-md-offset-1 header">
-            <h1>SPIRITUAL INFORMATION</h1>
+            <h1>OUR YOGA</h1>
           </div>
         </div>
       <div class="row">
         <div class="row">
           <div class="col-md-10 col-md-offset-1">
-           <div class="col-md-8 inpad">
-            <p>Faye Winmill opened Urban Calm Yin Yoga Centre earlier this year, she was hoping to create a space 
-            where people could ‘switch off’ from life and tune in to their bodies. Safe, calm, warm and friendly, 
-            an environment where yoga wasn’t a competition or an exercise in sweat-gathering, but a deep breath 
-            of fresh air in the rat race of city life. Faye says, “I wanted to create a place where everything 
-            could be stopped even just for an hour. A place for people to give themselves permission to let all 
-            the things go that have been holding them back in their minds and in their lives.”</p>
-            
-            <p>And the moment you walk through the high glass doors, you get the feeling Faye is creating 
-            just that. Nestled in Dunedin’s historic precinct, The Exchange, Urban Calm is in a beautifully 
-            renovated brick building, complete with high ceilings and large windows allowing maximum natural 
-            light to filter into the studio. It’s minimal yet inviting so that even the aesthetic part of your 
-            brain gets a nice little holiday - even the yoga mats and supports are colour co-ordinated. Faye is 
-            also proud to offer Urban Calm as a Training Centre of Higher Learning where she intends to bring 
-            international teachers to continue to help people grow and learn on their life journey.</p>
-
+           <div class="col-md-8">
+            <h4>YIN YOGA </h4>
+            <p>3-5 min holds. A series of 10 postures- Creative freedom and softness is always 
+              encouraged in this class - an opportunity to check in with self and breath. In class you are never expected to 
+              do what the teacher is saying. This is your time, your practice - Make it what you feel.</p>
+            <h4>SILENT YIN</h4>
+            <p>For those who have practiced Yin previously, this class is held in silence and a gong will 
+              ring as each minute passes. You will be given a laminated cue card to better help you understand 
+              the sequence. We encourage silence upon arrival and departure (but of course please you are always 
+              free to ask questions at any time).</p>
+            <h4>TIBETAN YIN </h4>
+            <p class="vboffset1">This is a more physical form of Yin which makes use of the 5th Tibetan Rite between Yin postures. 
+              Asanas are held for 5 minutes or longer and 21 repetitions of the 5th rite are used to release between 
+              postures. (This class is best if you have practiced Yin or other forms of yoga before).</p>
             <blockquote>
-            <h2>"WE PRACTICE YIN YOGA AT ROOM TEMPERATURE SO WE CAN TARGET THE CONNECTIVE TISSUE IN IT'S MOST ORGANIC STATE"  </h2>
+            <h2>"WE PRACTICE YIN YOGA AT ROOM TEMPERATURE SO WE CAN TARGET THE CONNECTIVE TISSUE IN ITS MOST ORGANIC STATE"  </h2>
             </blockquote>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 vboffset1">
             <img src="images/slider-3.jpg" class="img-circle owned" class="img-responsive" alt="Yoga Dunedin image">
               </div>
            </div>

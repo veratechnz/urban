@@ -71,7 +71,7 @@ if(isset($_POST['submit'])) {
             </div>
               <p class="voffset1"><i class="fa fa-phone voffset4"></i>&nbsp;03 477 2277</p>
               <p><i class="fa fa-envelope-o"></i>&nbsp;faye@urbancalm.co.nz</p>
-              <p class="vboffset1"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Level 1 Clarion Building<br>286 Princess Street dunedin</p>
+              <p class="vboffset1"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Level 1 Clarion Building<br>286 Princess Street Dunedin</p>
               <img src="images/map.jpg" alt="" class="img-rounded img-responsive vboffset">
               <button type="button" class="btn btn-default btn-lg center-block voffset5">BOOK TODAY</button>
             </div>

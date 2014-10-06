@@ -59,7 +59,7 @@
               Lotus College of Natural Therapies.  I am crazy passionate about the intelligence of the human body, 
               and working with it to cultivate health, happiness and wellbeing. I have experienced and witnessed 
               the healing that comes about when the body is given what it needs. Meditative practise, bridging mind and 
-              body, is an important part of a wholistic lifestyle.  This is one of the reasons I am so drawn to yin yoga.</p>
+              body, is an important part of a holistic lifestyle.  This is one of the reasons I am so drawn to yin yoga.</p>
 
               <p>I first discovered the joy and transformation of yoga 20 years ago, yin yoga specifically 4 years ago.  
               What particularly excites me about yin yoga it how safe and gentle it is, yet so deeply powerful and empowering.  

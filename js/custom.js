@@ -30,6 +30,6 @@
             window.location = newLocation;
           }
 
-// window.load function ends
+//Window.load function ends
     });
 
