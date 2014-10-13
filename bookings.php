@@ -13,14 +13,19 @@
 <!-- Php Nav and Links End -->
   <div class="container fader">
         <div class="row" id="about-header">
-          <div class="col-md-10 col-md-offset-1 header">
-            <h1>BOOKINGS</h1>
+          <!-- Hidden On Phone -->
+          <div class="col-md-10 col-md-offset-1 header hidden-xs">
+            <h1>BOOKINGS</h1> 
           </div>
             <div class="row">
             <div class="col-md-10 col-md-offset-1">
-              <img src="images/contact.jpg" alt="dunedin-yoga-studio-image" class="img-rounded center-block">
+              <!-- Only Visible On Desktop -->
+              <img src="images/contact.jpg" alt="dunedin-yoga-studio-image" class="img-rounded center-block visible-lg">
             <div class="col-md-12">
-              <hr>
+            <!-- Hidden On Phone -->
+              <hr class="hidden-xs">
+            <!-- Visible Phone -->
+            <p><button type="button" class="visible-xs btn btn-default btn-lg center-block" style="margin-top: 5%;">BOOK NOW</button></p>
               <!-- Booking Info -->
               <h3>JUMP ONLINE TO BOOK YOUR YIN YOGA SESSION AND GAURANTEE YOUR SPACE:</h3>
               <hr>
@@ -36,7 +41,7 @@
                   changes. <b class="light">PH: 03 477 2277</b></p>
                 <p>Public holiday times vary, please call or check Facebook for an up to date timetable. If you have already 
                   been for a class your information is already in so please use the LEFT hand side to Log In.</p>  
-                <p><button type="button" class="btn btn-default btn-lg center-block">BOOK TODAY</button></p>        
+                <p><button type="button" class="btn btn-default btn-lg center-block">BOOK NOW</button></p>        
             </div>
             <!-- Booking Info Ends -->
           </div>
@@ -44,7 +49,8 @@
       </div>
   <!-- Timetable & Pricing -->
       <div class="row" id="about-header">
-        <div class="col-md-10 col-md-offset-1 header">
+        <!-- Hidden Phone -->
+        <div class="col-md-10 col-md-offset-1 header hidden-xs">
             <h1>TIMETABLE</h1>
           </div>
             <div class="row">
@@ -113,7 +119,7 @@
   <!-- Timetable & Pricing Ends -->
     <!-- Timetable & Pricing -->
       <div class="row" id="about-header">
-        <div class="col-md-10 col-md-offset-1 header">
+        <div class="col-md-10 col-md-offset-1 header hidden-xs">
             <h1>PRICES</h1>
           </div>
             <div class="row">

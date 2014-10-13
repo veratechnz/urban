@@ -8,14 +8,16 @@
         </div>
     </section>
     <!-- Top Logo Section End -->
+
     <!-- Mobile Menu Begins -->
     <div class="mobmenu visible-xs">
-    <button type="button" class="btn btn-default btn-lg btn-block">Home</button>
-    <button type="button" class="btn btn-default btn-lg btn-block">Bookings</button>
-    <button type="button" class="btn btn-default btn-lg btn-block">About</button>
-    <button type="button" class="btn btn-default btn-lg btn-block">Contact</button>
+    <a href="index.php" class="btn btn-default btn-lg btn-block active" id="pleft">Home</a>
+    <a href="Bookings.php" class="btn btn-default btn-lg btn-block" id="pleft">Bookings</a>
+    <a href="about.php" class="btn btn-default btn-lg btn-block" id="pleft">About</a>
+    <a href="contact.php" class="btn btn-default btn-lg btn-block vboffset1" id="pleft">Contact</a>
     </div>
     <!-- Mobile Menu Ends -->
+
     <!-- Top Menu Section Start -->
     <section id="navigation" class="voffset hidden-xs">
     <div class="container">

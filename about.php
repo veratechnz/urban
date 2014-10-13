@@ -13,7 +13,7 @@
 <!-- Php Nav and Links End -->
   <div class="container fader">
         <div class="row" id="about-header">
-          <div class="col-md-10 col-md-offset-1 header">
+          <div class="col-md-10 col-md-offset-1 header hidden-xs">
             <h1>ABOUT</h1>
           </div>
             <div class="row">
@@ -78,9 +78,12 @@
 <!--Owner biography section Ends-->
 <!--Spiritual information section-->
         <div class="row" id="spiritual-header">
-          <div class="col-md-10 col-md-offset-1 header">
+          <!-- Hidden on mobile -->
+          <div class="col-md-10 col-md-offset-1 header hidden-xs">
             <h1>OUR YOGA</h1>
           </div>
+          <!-- Visible On Mobile -->
+          <hr class="visible-xs">
         </div>
       <div class="row">
         <div class="row">

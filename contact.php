@@ -64,7 +64,7 @@ if(isset($_POST['submit'])) {
   <div class="container fader">
     <div class="row">
       <div class="col-sm-10 col-md-offset-1">
-        <div class="headerb">
+        <div class="headerb hidden-xs">
             <h1>CONTACT</h1>
         </div>
         <div class="row">
