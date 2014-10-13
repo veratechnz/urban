@@ -11,10 +11,10 @@
 
     <!-- Mobile Menu Begins -->
     <div class="mobmenu visible-xs">
-    <a href="index.php" class="btn btn-default btn-lg btn-block active" id="pleft">Home</a>
-    <a href="Bookings.php" class="btn btn-default btn-lg btn-block" id="pleft">Bookings</a>
-    <a href="about.php" class="btn btn-default btn-lg btn-block" id="pleft">About</a>
-    <a href="contact.php" class="btn btn-default btn-lg btn-block vboffset1" id="pleft">Contact</a>
+    <a href="index.php" <?php if($currentPage == 'index.php'){echo 'class="btn btn-default btn-lg btn-block active"';} else {echo 'class="btn btn-default btn-lg btn-block';}?> id="pleft">Home</a>
+    <a href="bookings.php" <?php if($currentPage == 'bookings.php'){echo 'class="btn btn-default btn-lg btn-block active"';} else {echo 'class="btn btn-default btn-lg btn-block';}?> id="pleft">Bookings</a>
+    <a href="about.php" <?php if($currentPage == 'about.php'){echo 'class="btn btn-default btn-lg btn-block active"';} else {echo 'class="btn btn-default btn-lg btn-block';}?> id="pleft">About</a>
+    <a href="contact.php" <?php if($currentPage == 'contact.php'){echo 'class="btn btn-default btn-lg btn-block active vboffste1"';} else {echo 'class="btn btn-default btn-lg btn-block vboffset1';}?> id="pleft">Contact</a>
     </div>
     <!-- Mobile Menu Ends -->
 
