@@ -64,21 +64,18 @@ if(isset($_POST['submit'])) {
   <div class="container fader">
     <div class="row">
       <div class="col-sm-10 col-md-offset-1">
+        <div class="headerb">
+            <h1>CONTACT</h1>
+        </div>
         <div class="row">
           <div class="col-md-4">
-            <div class="headerb">
-              <h1>CONTACT</h1>
-            </div>
-              <p class="voffset1"><i class="fa fa-phone voffset4"></i>&nbsp;03 477 2277</p>
+              <p><i class="fa fa-phone voffset4"></i>&nbsp;03 477 2277</p>
               <p><i class="fa fa-envelope-o"></i>&nbsp;faye@urbancalm.co.nz</p>
               <p class="vboffset1"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Level 1 Clarion Building<br>286 Princess Street Dunedin</p>
               <img src="images/map.jpg" alt="" class="img-rounded img-responsive vboffset">
               <button type="button" class="btn btn-default btn-lg center-block voffset5">BOOK TODAY</button>
             </div>
             <div class="col-md-8">
-             <div class="headerb">
-              <h1>SEND US A MESSAGE</h1>
-              </div>
                     <form role="form" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" id="contactform">
 
                     <?php if(isset($hasError)) { //If errors are found ?>

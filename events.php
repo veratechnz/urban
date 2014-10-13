@@ -21,26 +21,26 @@
         <div class="row" id="events">     
             <div class="col-md-3">
               <img src="images/slider-7.jpg" class="img-circle" class="img-responsive" alt="image 1">
-              <h3>Timetable</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+              <h3 class="text-center">TIMETABLE</h3>
+              <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                 Consequatur, ea nihil repellendus nulla placeat veritatis</p>     
               </div>
               <div class="col-md-3">
                   <img src="images/slider-4.jpg" class="img-circle" class="img-responsive" alt="image 1">
-                  <h3>T.B.C</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                  <h3 class="text-center">T.B.C</h3>
+                  <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                     Consequatur, ea nihil repellendus nulla placeat veritatis</p>    
               </div>
             <div class="col-md-3">
               <img src="images/slider-6.jpg" class="img-circle" class="img-responsive" alt="image 1">
-              <h3>T.B.C</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+              <h3 class="text-center">T.B.C</h3>
+              <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
               Consequatur, ea nihil repellendus nulla placeat veritatis</p>  
             </div>
               <div class="col-md-3">
                 <img src="images/slider-5.jpg" class="img-circle" class="img-responsive" alt="image 1">
-                <h3>Yoga Abound</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                <h3 class="text-center">YOGA ABOUND</h3>
+                <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                   Consequatur, ea nihil repellendus nulla placeat veritatis</p>     
                 </div>
                 </div>
