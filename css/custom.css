@@ -38,10 +38,12 @@ html body section#about section#navigation.voffset.hidden-xs div.container div.r
 #nav-list.nav-height li#noborder.cent-fix.nav-height a#noborder{border-right: 0px;}
 .nav-height {height: 30px; line-height: .01;}
 .nopad{padding: 0px;}
+
 /*Mob Buttons*/
 .btn-urban{background-color: #e6e6e6; border-color:#ccc;}
 .btn-urban:hover{background-color: #fff;}
 .btn-block{width: 90%; margin: 0 auto;}
+.bwidth{width:160px;}
 
 /*Bottom Logo Asset*/
 .asset{margin-top: 1%}

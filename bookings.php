@@ -41,7 +41,7 @@
                   changes. <b class="light">PH: 03 477 2277</b></p>
                 <p>Public holiday times vary, please call or check Facebook for an up to date timetable. If you have already 
                   been for a class your information is already in so please use the LEFT hand side to Log In.</p>  
-                <p><button type="button" class="btn btn-default btn-lg center-block">BOOK NOW</button></p>        
+                <p><a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=130751" target="_blank" class="btn btn-default btn-lg center-block bwidth">BOOK NOW</a></p>        
             </div>
             <!-- Booking Info Ends -->
           </div>
@@ -144,15 +144,15 @@
             <div class="wrapt">
               <div class="col-md-4 vboffset voffset">
                 <h3 class="text-center">TEACHER TRAINING</h3>
-                <button type="button" class="btn btn-default btn-lg center-block">BOOKINGS</button>
+                <a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=130751" class="btn btn-default btn-lg center-block bwidth">BOOK TODAY</a>
               </div>
               <div class="col-md-4 vboffset voffset">
                 <h3 class="text-center">PAYMENTS ONLINE</h3>
-                <button type="button" class="btn btn-default btn-lg center-block">BOOKINGS</button>
+                <a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=130751" class="btn btn-default btn-lg center-block bwidth">BOOK TODAY</a>
               </div>
               <div class="col-md-4 vboffset voffset">
                 <h3 class="text-center">BOOK YOUR CLASS</h3>
-                <button type="button" class="btn btn-default btn-lg center-block">BOOKINGS</button>
+                <a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=130751" class="btn btn-default btn-lg center-block bwidth">BOOK TODAY</a>
               </div>
             </div>
             <!-- CTA Buttons End -->

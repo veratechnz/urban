@@ -30,7 +30,8 @@
                 simply that its benefits and practice goes beyond the limitations of  mechanistic thinking and relate to mental, 
                 bodily and spiritual health. </p>      
 
-              <h2>"YIN YOGA IS AN ARTFORM, NOT AN EXACT SCIENCE" </h2>        
+              <h2>"YIN YOGA IS AN ARTFORM, NOT AN EXACT SCIENCE" </h2>     
+              <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                  
             </div>
 <!-- Flower image -->
             <div class="col-md-4" id="flower">
@@ -69,7 +70,7 @@
               <li>Better ability to sit for meditation</li>
             </ul>
             <p>You can find more information on the demonstrable benefits of Yin Yoga <a href="">HERE.</a></p>
-
+              <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                  
             </div>
 <!--Owner image -->
               <div class="col-md-2 col-md-pull-5">

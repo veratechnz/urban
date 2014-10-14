@@ -73,7 +73,7 @@ if(isset($_POST['submit'])) {
               <p><i class="fa fa-envelope-o"></i>&nbsp;faye@urbancalm.co.nz</p>
               <p class="vboffset1"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Level 1 Clarion Building<br>286 Princess Street Dunedin</p>
               <img src="images/map.jpg" alt="" class="img-rounded img-responsive vboffset">
-              <button type="button" class="btn btn-default btn-lg center-block voffset5">BOOK TODAY</button>
+                <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset5">BOOK TODAY</a>                 
             </div>
             <div class="col-md-8">
                     <form role="form" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" id="contactform">
@@ -105,7 +105,7 @@ if(isset($_POST['submit'])) {
                     </div>
 
                     <div class="actions">
-                      <input type="submit" value="SEND" name="submit" id="submitButton" class="btn btn-default btn-lg voffset4" title="Click here to submit your message!" />
+                      <input type="submit" value="SEND" name="submit" id="submitButton" class="btn btn-default btn-lg voffset2" title="Click here to submit your message!" />
                     </div>
                   </fieldset>
                 </form>

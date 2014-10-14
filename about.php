@@ -29,6 +29,7 @@
               <blockquote>
               <h2>"JUST ONE HOUR OF YIN YOGA ENABLES US TO PRESS THE RESTART BUTTON ON OUR ENTIRE NERVOUS SYSTEM." </h2>        
               </blockquote>
+              <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth">BOOK TODAY</a> 
             </div>
 <!-- Flower image -->
             <div class="col-md-4" id="flower">
@@ -70,7 +71,8 @@
             to life. We’re happy that Silkbody fits so perfectly into this vision - it’s great to know that our 
             beautiful garments are being embraced and appreciated on so many levels. If you’re ever in Dunedin, 
             we can recommend taking pause at Urban Calm. In Faye’s wise words - “slow down, take a breath and 
-            rethink in order to speed up”.</p>
+            rethink in order to speed up”.</p>        
+            <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                   
             </div>
         </div>
       </div>
@@ -105,6 +107,7 @@
             <blockquote>
             <h2>"WE PRACTICE YIN YOGA AT ROOM TEMPERATURE SO WE CAN TARGET THE CONNECTIVE TISSUE IN ITS MOST ORGANIC STATE"  </h2>
             </blockquote>
+            <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth vboffset1">BOOK TODAY</a>                  
           </div>
           <div class="col-md-4 vboffset1">
             <img src="images/slider-3.jpg" class="img-circle owned" class="img-responsive" alt="Yoga Dunedin image">

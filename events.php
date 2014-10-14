@@ -20,30 +20,35 @@
             <div class="col-md-10 col-md-offset-1">
         <div class="row" id="events">     
             <div class="col-md-3">
-              <img src="images/slider-7.jpg" class="img-circle" class="img-responsive" alt="image 1">
+              <img src="images/slider-7.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
               <h3 class="text-center">TIMETABLE</h3>
               <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                 Consequatur, ea nihil repellendus nulla placeat veritatis</p>     
               </div>
               <div class="col-md-3">
-                  <img src="images/slider-4.jpg" class="img-circle" class="img-responsive" alt="image 1">
+                  <img src="images/slider-4.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
                   <h3 class="text-center">T.B.C</h3>
                   <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                     Consequatur, ea nihil repellendus nulla placeat veritatis</p>    
               </div>
             <div class="col-md-3">
-              <img src="images/slider-6.jpg" class="img-circle" class="img-responsive" alt="image 1">
+              <img src="images/slider-6.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
               <h3 class="text-center">T.B.C</h3>
               <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
               Consequatur, ea nihil repellendus nulla placeat veritatis</p>  
             </div>
               <div class="col-md-3">
-                <img src="images/slider-5.jpg" class="img-circle" class="img-responsive" alt="image 1">
+                <img src="images/slider-5.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
                 <h3 class="text-center">YOGA ABOUND</h3>
                 <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                  Consequatur, ea nihil repellendus nulla placeat veritatis</p>     
-                </div>
-                </div>
+                  Consequatur, ea nihil repellendus nulla placeat veritatis</p>
+              </div>
+          </div>
+            <div class="row">
+              <div class="col-md-12">
+                <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                  
+            </div>
+          </div>
           </div>
             </div> 
         </div>
@@ -74,6 +79,7 @@
             beautiful garments are being embraced and appreciated on so many levels. If you’re ever in Dunedin, 
             we can recommend taking pause at Urban Calm. In Faye’s wise words - “slow down, take a breath and 
             rethink in order to speed up”.</p>
+            <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                  
 
             </div>
 <!--Owner image -->

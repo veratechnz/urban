@@ -32,6 +32,7 @@
               <blockquote>   
               <h2>"YIN YOGA IS AN ARTFORM, NOT AN EXACT SCIENCE." </h2>   
               </blockquote>     
+                <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                                
             </div>
 <!-- Flower image -->
             <div class="col-md-4" id="flower">
@@ -72,7 +73,8 @@
               <p>It am so looking forward to be-ing on the mat beside you, and sharing this special space.</p> 
               <blockquote>
               <h2>"I FIRST DISCOVERED THE JOY AND THE TRANSFORMATION OF YOGA 20 YEARS AGO" </h2> 
-              </blockquote>       
+              </blockquote>  
+              <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                  
             </div>
 <!-- Flower image -->
           </div>
@@ -109,7 +111,8 @@
               <p>I look forward to growing with all of you as we study Yin further.</p>
               <blockquote>
               <h2>"TISSUE UNWINDS WHEN THE MIND GIVES IT TIME." </h2>  
-              </blockquote>      
+              </blockquote>    
+              <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                                  
             </div>
 <!-- Flower image -->
             <div class="col-md-4" id="flower">
@@ -147,6 +150,7 @@
             <blockquote> 
             <h2>"STORMS AHEAD NASTY SEA, DEAD WINTER, ARTIC WINDS, RIGHTO, TO DUNEDIN THEY SAY!"</h2> 
             </blockquote>
+            <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth vboffset1">BOOK TODAY</a>                              
             </div>
 <!-- Flower image -->
           </div>
