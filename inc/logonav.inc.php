@@ -27,7 +27,7 @@
                         <ul id="nav-list" class="nav-height navb">
                             <li class="cent-fix nav-height"><a href="about.php" id="pleft" <?php if($currentPage == 'about.php'){echo 'class="active navcss"';} else {echo 'class="navcss"';}?>>ABOUT</a></li>
                             <li class="cent-fix nav-height"><a href="bookings.php" <?php if($currentPage == 'bookings.php'){echo 'class="active navcss"';} else {echo 'class="navcss"';}?>>BOOKINGS</a></li>
-                            <li class="cent-fix nav-height"><a href="health-benefits.php" <?php if($currentPage == 'health-benefits.php'){echo 'class="active navcss"';} else {echo 'class="navcss"';}?>>HEALTH BENEFITS</a></li>
+                            <li class="cent-fix nav-height"><a href="healing-benefits.php" <?php if($currentPage == 'healing-benefits.php'){echo 'class="active navcss"';} else {echo 'class="navcss"';}?>>HEALING BENEFITS</a></li>
                             <li class="cent-fix nav-height"><a href="events.php" <?php if($currentPage == 'events.php'){echo 'class="active navcss"';} else {echo 'class="navcss"';}?>>EVENTS</a></li>
                             <li class="cent-fix nav-height"><a href="teachers.php" <?php if($currentPage == 'teachers.php'){echo 'class="active navcss"';} else {echo 'class="navcss"';}?>>TEACHERS</a></li>
                             <li class="cent-fix nav-height" id="noborder"><a href="contact.php" id="pright" <?php if($currentPage == 'contact.php'){echo 'class="active navcss"';} else {echo 'class="navcss"';}?>>CONTACT</a></li>

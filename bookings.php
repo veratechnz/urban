@@ -28,6 +28,7 @@
             <p><button type="button" class="visible-xs btn btn-default btn-lg center-block" style="margin-top: 5%;">BOOK NOW</button></p>
               <!-- Booking Info -->
               <h3>JUMP ONLINE TO BOOK YOUR YIN YOGA SESSION AND GAURANTEE YOUR SPACE:</h3>
+              <p class="text-center">Please check website or <a href="https://www.facebook.com/pages/Urban-Calm-Yin-Yoga-Centre/201863603334816" target="_blank"><span class="fb">Facebook</span></a>&nbsp;for up to date timetables as our public holidays vary.</p>
               <hr>
                 <p><b class="light">1.</b> Log in to our Mind Body Online booking system ( if you have never logged in 
                 before, you will need to create an account by entering your name and the email 
@@ -130,9 +131,9 @@
                 <p>Standard - $16.00  &nbsp;|&nbsp;  Senior Citizen/Student - $14.00</p>
               <h4 class="voffset2">CONCESSIONS</h4>
               <hr>
-                <p>Standard:</p>
-                <p>5 - $75.00 &nbsp;|&nbsp;  15 - $210.00 &nbsp;|&nbsp;  30 - $390.00</p>
-                <p>Senior Citizen &nbsp;|&nbsp; Student:</p>
+                <h4 class="vboffset">Standard:</h4>
+                <p class="vboffset">5 - $75.00 &nbsp;|&nbsp;  15 - $210.00 &nbsp;|&nbsp;  30 - $390.00</p>
+                <h4 class="vboffset">Senior Citizen &nbsp;|&nbsp; Student:</h4>
                 <p>5 - $65.00 &nbsp;|&nbsp;  15 - $180.00 &nbsp;|&nbsp;  30 - $220.00</p>
                 <p>* Non transferable - non refundable. Senior Citizens 60+</p>
                 <p>Student ID Required. Always reserve your mat online or via email.</p>
@@ -155,6 +156,7 @@
                 <a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=130751" class="btn btn-default btn-lg center-block bwidth">BOOK TODAY</a>
               </div>
             </div>
+            <?php include 'inc/footer.inc.php';?>
             <!-- CTA Buttons End -->
             <!-- Blockquote -->
               <div class="col-md-12 vboffset">
@@ -167,10 +169,10 @@
         </div> 
       </div>
   <!-- Timetable & Pricing Ends -->
+    <?php include 'inc/urban-div.inc.php';?>
 <!-- Container End --></div>
       </div>
       </div>
-<?php include 'inc/footer.inc.php';?>
   </div>
 <!--Spiritual information section ends-->
 </section>

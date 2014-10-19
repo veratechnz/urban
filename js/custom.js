@@ -4,7 +4,7 @@
           $('#slider').nivoSlider({
             effect: 'fade',
             animSpeed: 3000,
-            pauseTime: 4000,
+            pauseTime: 2000,
             directionNav: false,
             controlNav: false,
             startSlide:1,
@@ -18,12 +18,12 @@
 
 //Page Fade Effect // Separate From The Slide Show
             $('.fader').css('display', 'none');
-            $('.fader').fadeIn(1200);
+            $('.fader').fadeIn(1000);
 
             $('.cent-fix a').click(function(event){
                 event.preventDefault();
                 newLocation = this.href;
-                $('.fader').fadeOut(1200, newPage);
+                $('.fader').fadeOut(1000, newPage);
             });
 
           function newPage() {

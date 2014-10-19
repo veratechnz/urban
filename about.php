@@ -90,31 +90,59 @@
       <div class="row">
         <div class="row">
           <div class="col-md-10 col-md-offset-1">
-           <div class="col-md-8">
-            <h4>YIN YOGA </h4>
-            <p>3-5 min holds. A series of 10 postures- Creative freedom and softness is always 
-              encouraged in this class - an opportunity to check in with self and breath. In class you are never expected to 
-              do what the teacher is saying. This is your time, your practice - Make it what you feel.</p>
-            <h4>SILENT YIN</h4>
-            <p>For those who have practiced Yin previously, this class is held in silence and a gong will 
-              ring as each minute passes. You will be given a laminated cue card to better help you understand 
-              the sequence. We encourage silence upon arrival and departure (but of course please you are always 
-              free to ask questions at any time).</p>
-            <h4>TIBETAN YIN </h4>
-            <p class="vboffset1">This is a more physical form of Yin which makes use of the 5th Tibetan Rite between Yin postures. 
-              Asanas are held for 5 minutes or longer and 21 repetitions of the 5th rite are used to release between 
-              postures. (This class is best if you have practiced Yin or other forms of yoga before).</p>
+              <h4>YIN YOGA AND URBAN CALM</h4>
+              <p>Yin Yoga is a slow-paced style of yoga with poses (asanas) that are held for longer periods of time than in other styles—three 
+                to five minutes or even as long as twenty minutes is common. Yin asanas apply moderate and controlled stress to the connective tissues 
+                (the tendons, fascia and ligaments) with the aim of improving  flexibility and increasing circulation and hydration of the joints. 
+                As a slow, meditative and holistic practice Yin also cultivates a profound bodily and inner awareness, a silence, calm and equanimity 
+                which brings a peaceful interconnection to otherwise fragmented contemporary lifestyles.</p>
+
+              <p>At Urban Calm we recognise that life (particularly contemporary urban life) has become fragmented and supersaturated with time pressures and performance demands.
+               We all seem to be going at a hundred miles an hour, flitting from one activity or responsibility to the next. 
+              This is not necessarily a bad thing: fulfilment can come from those activities and achievements at work and in social 
+              and family life and an active body and mind is a good thing. But when all of these active elements of our lives take over 
+              completely we are likely to fall out of balance. Tao philosophy would interpret this situation as one where the “Yang” forces 
+              (changing, mobile, masculine, active, hot, and upward moving) have overwhelmed the “Yin” (stable, immobile, feminine, passive, 
+              cold, and downward moving). We all need balance. Urban Calm is that place where we can come to restore that balance, to find ourselves, to rejuvinate.</p>
+
+              <p>At Urban Calm we believe that when you stop and take time to open your body, to relax your muscles and find the deeper 
+              connective tissues you are also finding a deeply holistic reconciliation. The slow pace of Yin and its meditative 
+              foundations open us to ourselves. As our bodily awareness grows we relearn our very selves. In this deep holistic 
+              relaxation which brings us face to face with our bodies, our minds and our spirits, we find an 'inner teacher'.</p>
+
+              <h4 class="voffset">OUR INTUITIVE APPROACH TO YIN</h4>
+              <p>At Urban Calm we are committed to helping you find this inner teacher. Every body, every mind is different. 
+              Because we each have our own peculiar skeletal structures and our own peculiar bodily forms we do not prescribe how a 
+              pose should be done. Finding the pose is always an absolutely singular and individual experience, dependent on individual 
+              idiosyncracies and body shapes – it is INTUITIVE and the intuition is always yours. We do not think a pose 'looks like' 
+              anything in particular – it is instead always a matter of you finding your 'inner teacher', learning your own limitations 
+              and feeling and intuiting how things need to be. At Urban Calm we will guide you to your own intuition: we will never 
+              correct or adjust you nor will we force you into any idealised image or pose.</p>
+
+              <h4 class="voffset">EYES WIDE SHUT</h4>
+              <p>Our intuitive approach goes deeper than simply abandoning forceful 'correction' or adjustment – we 
+              try to abandon all those objectifying habits and thought processes which set us against ourselves. 
+              When we compare ourselves to an image we are breaking ourselves in two - into an ideal image on the one 
+              hand and a reality failing to meet the demands of that ideal on the other. It is a judgemental structure which 
+              is imposed by all of society's objectifying processes and by a self-consciousness which is always second guessing 
+              ourselves. Structures of judgment, objectification and competitiveness go against the very holistic nature of Yin 
+              practice.</p>
+
+              <p>At Urban Calm we therefore aim to  provide an absolutely non-objectifying and non-judgemental space. 
+              We want you to be and feel integrated, to feel and be whole, so you can be comfortable and find your inner teacher 
+              without the anxieties of self-consciousness. We therefore teach with our eyes closed but our awareness open. 
+              Teaching with 'eyes wide shut'  helps us towards an inner focus, awareness and intuition and meshes well with our 
+              no-correction/ no-adjustment technique. By teaching with our eyes closed we hope to give you the privacy and space 
+              you need to find your own inner focus and your own intuition. Many beginners find the prospect of judgement and being 
+              stared at a barrier to their practice, and even experienced practitioners can be distracted by objectifications.</p>
             <blockquote>
-            <h2>"WE PRACTICE YIN YOGA AT ROOM TEMPERATURE SO WE CAN TARGET THE CONNECTIVE TISSUE IN ITS MOST ORGANIC STATE"  </h2>
+            <h2>YOU ARE BEST TO PRACTICE YOUR OWN FORM OF YOGA HOW EVER IMPERFECTLY THAT MAYBE THAN TO PRACTICE THE YOGA OF ANOTHER PERFECTLY</h2>
             </blockquote>
             <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth vboffset1">BOOK TODAY</a>                  
-          </div>
-          <div class="col-md-4 vboffset1">
-            <img src="images/slider-3.jpg" class="img-circle owned" class="img-responsive" alt="Yoga Dunedin image">
-              </div>
            </div>
           </div>
          </div>
+           <?php include 'inc/urban-div.inc.php';?>
        </div> <!-- ContainerEnds -->
     </div>
   </div>

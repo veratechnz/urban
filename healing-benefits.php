@@ -14,7 +14,7 @@
   <div class="container fader">
         <div class="row" id="about-header">
           <div class="col-md-10 col-md-offset-1 header">
-            <h1>HEALTH BENEFITS</h1>
+            <h1>HEALING BENEFITS</h1>
           </div>
             <div class="row">
             <div class="col-md-10 col-md-offset-1">

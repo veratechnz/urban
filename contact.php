@@ -72,7 +72,7 @@ if(isset($_POST['submit'])) {
               <p><i class="fa fa-phone voffset4"></i>&nbsp;03 477 2277</p>
               <p><i class="fa fa-envelope-o"></i>&nbsp;faye@urbancalm.co.nz</p>
               <p class="vboffset1"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Level 1 Clarion Building<br>286 Princess Street Dunedin</p>
-              <img src="images/map.jpg" alt="" class="img-rounded img-responsive vboffset">
+          <p><a target="_blank" href="https://goo.gl/maps/Q4jKQ"><img src="images/map.jpg" alt="" class="img-rounded img-responsive vboffset" href="https://goo.gl/maps/Q4jKQ"></a></p>
                 <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset5">BOOK TODAY</a>                 
             </div>
             <div class="col-md-8">
@@ -114,7 +114,7 @@ if(isset($_POST['submit'])) {
             <div class="col-md-12 vboffset2 voffset1">
               <hr>
             <blockquote>
-            <h2>"THIS IS WHEN YIN BECOMES FASCINATING AS EACH MINUTE GOES BY, WE FEEL THE BODY OPEN NATURALLY"</h2>
+            <h2>"IDEALLY THE ULTIMATE RETREAT IS TO RETREAT FROM THE PAST AND THE FUTURE TO ALLOW OURSELVES TO REMAIN IN THE PRESENT. "</h2>
             </blockquote>
             <hr>
             </div>

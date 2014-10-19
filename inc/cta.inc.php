@@ -3,11 +3,15 @@
             <div class="col-md-12 vboffset">
               <hr>
             <blockquote>
-            <h2>"THIS IS WHEN YIN BECOMES FASCINATING AS EACH MINUTE GOES BY, WE FEEL THE BODY OPEN NATURALLY"</h2>
+            <h2>"PROPER EFFORT IS NOT THE EFFORT TO MAKE SOMETHING PARTICULAR HAPPEN . 
+                IT IS THE EFFORT TO BE AWARE AND AWAKE EACH MOMENT "AJAHN CHAH"</h2>
             </blockquote>
             <hr>
             </div>
             <!-- Blockquote End -->
+            <div class="urban-div">
+              <img src="images/urban-div.png" alt="" class="center-block">
+            </div>
             </div>
             <!-- Booking Info Ends -->
             <!-- CTA Buttons -->

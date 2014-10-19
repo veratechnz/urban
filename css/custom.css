@@ -73,7 +73,7 @@ body {height: 100%;}
 .footyspan{padding-left: 2%;}
 .footyspanb{padding-left: 4%;}
 .footyhead{color: #fff; border-bottom: 1px solid #fff; padding-bottom: 2%; width: 80%;}
-.footmap{width: 430px; height: 163px; margin-top: 4%; float: right;margin-right: 8%;}
+.footmap{width: 50%px; height: 163px; margin-top: 4%; float: right; margin-right: 8%;}
 .footicon{color:#8D8887;}
 .footyiconsb{float: right;}
 .foots{margin:2px;}
@@ -110,6 +110,11 @@ body {height: 100%;}
 /*Contact page*/
 #map{padding-top:30px;}
 #contact-form{border-color: #bdbab9; padding-top: 30px}
+
+/*FB Link*/
+.fb{color:#6883AF; text-decoration: underline;}
+.notice{background-color: efefef;}
+.underline{text-decoration: underline;}
 
 
 

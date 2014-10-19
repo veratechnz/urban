@@ -27,18 +27,18 @@
               </div>
               <div class="col-md-3">
                   <img src="images/slider-4.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
-                  <h3 class="text-center">T.B.C</h3>
+                  <h3 class="text-center">TESTIMONIALS</h3>
                   <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                     Consequatur, ea nihil repellendus nulla placeat veritatis</p>    
               </div>
             <div class="col-md-3">
               <img src="images/slider-6.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
-              <h3 class="text-center">T.B.C</h3>
+              <h3 class="text-center">GALLERY</h3>
               <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
               Consequatur, ea nihil repellendus nulla placeat veritatis</p>  
             </div>
               <div class="col-md-3">
-                <img src="images/slider-5.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
+                <img src="images/slider-18.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
                 <h3 class="text-center">YOGA ABOUND</h3>
                 <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                   Consequatur, ea nihil repellendus nulla placeat veritatis</p>
@@ -86,6 +86,11 @@
               <div class="col-md-2 col-md-pull-5">
                <img src="images/slider-16.jpg" class="img-circle" class="img-responsive" alt="Owner">
             </div>
+        </div>
+        <div class="col-md-12">
+          <hr>
+          <h4 class="text-center notice">UC also hosts International Teachers in the field of yoga/higher learning self devopment.
+          Please refer to our <a href="bookings.php" class="underline">booking system</a> and go to enrolments to see whats going on at UC.</h4>
         </div>
           <?php include 'inc/cta.inc.php';?>
       </div> <!-- Container Ends -->

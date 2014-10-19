@@ -2,7 +2,7 @@
     	<div class="container fader">
       <div class="row">
           <div class="col-md-6">
-            <img src="images/map.jpg" class="center-block footmap">
+          <p><a target="_blank" href="https://goo.gl/maps/Q4jKQ"><img src="images/map.jpg" alt="" class="img-responsive center-block footmap" href="https://goo.gl/maps/Q4jKQ"></a></p>
           </div>
           <div class="col-md-6">
           	<h3 class="footyhead">CONTACT <span class="footyiconsb"><i class="fa fa-facebook-square foots"></i><i class="fa fa-twitter-square foots"></i><i class="fa fa-google-plus-square foots"></i><i class="fa fa-linkedin-square foots"></i></span></h3>
