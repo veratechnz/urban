@@ -20,19 +20,19 @@
             <div class="col-md-10 col-md-offset-1">
         <div class="row" id="events">     
             <div class="col-md-3">
-              <img src="images/slider-7.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
+              <img src="images/slider-4.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
               <h3 class="text-center">TIMETABLE</h3>
               <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                 Consequatur, ea nihil repellendus nulla placeat veritatis</p>     
               </div>
               <div class="col-md-3">
-                  <img src="images/slider-4.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
+                  <img src="images/slider-6.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
                   <h3 class="text-center">TESTIMONIALS</h3>
                   <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
                     Consequatur, ea nihil repellendus nulla placeat veritatis</p>    
               </div>
             <div class="col-md-3">
-              <img src="images/slider-6.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
+              <img src="images/slider-26.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
               <h3 class="text-center">GALLERY</h3>
               <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
               Consequatur, ea nihil repellendus nulla placeat veritatis</p>  

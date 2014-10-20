@@ -56,7 +56,6 @@
           </div>
             <div class="row">
             <div class="col-md-10 col-md-offset-1">
-            <div class="col-md-10 col-md-offset-1">
                 <table class="table table-striped">
                     <thead>
                         <tr>
@@ -114,10 +113,30 @@
                     </tbody>
                 </table>          
             </div>
-          </div>
         </div> 
       </div>
   <!-- Timetable & Pricing Ends -->
+  <!-- Yoga Forms Explained -->
+    <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+        <h3>YIN YOGA</h3>
+        <p>3-5 min holds. A series of 10 postures- Creative freedom and softness is always encouraged 
+        in this class - an opportunity to check in with self and breath. In class you are never 
+        expected to do what the teacher is saying. This is your time, your practice - Make it what you 
+        feel.</p>
+        <h3>SILENT YIN</h3>
+        <p>For those who have practiced Yin previously, this class is held in silence and a gong will 
+        ring as each minute passes. You will be given a laminated cue card to better help you understand
+        the sequence. We encourage silence upon arrival and departure (but of course please you are 
+        always free to ask questions at any time).</p>
+        <h3>TIBETAN YIN</h3>
+        <p>This is a more physical form of Yin which makes use of the 5th Tibetan Rite between 
+        Yin postures. Asanas are held for 5 minutes or longer and 21 repetitions of the 5th rite are 
+        used to release between postures. (This class is best if you have practiced Yin or other forms 
+        of yoga before).</p>
+    </div>
+    </div>
+  <!-- Yoga Forms Explained End -->
     <!-- Timetable & Pricing -->
       <div class="row" id="about-header">
         <div class="col-md-10 col-md-offset-1 header hidden-xs">
@@ -156,7 +175,6 @@
                 <a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=130751" class="btn btn-default btn-lg center-block bwidth">BOOK TODAY</a>
               </div>
             </div>
-            <?php include 'inc/footer.inc.php';?>
             <!-- CTA Buttons End -->
             <!-- Blockquote -->
               <div class="col-md-12 vboffset">
@@ -169,10 +187,10 @@
         </div> 
       </div>
   <!-- Timetable & Pricing Ends -->
-    <?php include 'inc/urban-div.inc.php';?>
 <!-- Container End --></div>
       </div>
       </div>
+<?php include 'inc/footer.inc.php';?>
   </div>
 <!--Spiritual information section ends-->
 </section>

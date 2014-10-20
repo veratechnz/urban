@@ -52,26 +52,24 @@
             <div class="col-md-10 col-md-offset-1">
               <!--Owner image -->
               <div class="col-md-4">
-               <img src="images/slider-16.jpg" class="img-circle owned" class="img-responsive" alt="Owner">
+               <img src="images/slider-25.jpg" class="img-circle owned" class="img-responsive" alt="Owner">
             </div>
             <!-- Owner Image Ends -->
             <div class="col-md-8">
-            <p>After travelling the world, Faye is relishing the chance to be home and celebrating what New Zealand 
-            and Dunedin has to offer. When photographer Marelda O’Rourke Gallaher and Faye were creating new images 
-            for Urban Calm, it only made sense to celebrate some of Faye’s favourite things about Dunedin. The 
-            beautiful new photographs show Faye in classic Yin poses in front of some of Dunedin’s iconic street 
-            art, and wearing Silkbody clothing.</p>
+                <p>Faye Winmill is the founder of Urban Calm Yin Yoga Centre. 
+                Having practiced different forms of yoga for 10 years prior to committing 
+                herself to teaching, she decided to gain her certification in 2013 and studied 
+                at the Pavones Yoga Centre in Costa Rica. Her time in the jungle saw her obtain 
+                the 200 hour Yoga Alliance Certificate in Multidimentional Training as well as the 108 hour 
+                Certificate in Art of Flow Vinyassa and Intergrative healing Yoga Threapy.</p>
 
-            <p>When explaining why she chooses to Yin in Silkbody, Faye says, “I love to Yin in Silkbody as in Yin 
-            it feels like you go back to beginning of self, back to the cocoon that is home. Yin is a time to 
-            check in and Silkbody sets that feeling in the truest form of delicate comfort - Yin is a time to 
-            give back to self and you know you are truly giving back to self when you dress in Silkbody.”</p>
-
-            <p>Urban Calm seeks to be a safe haven in a harsh world and Faye’s vision certainly seems to be coming 
-            to life. We’re happy that Silkbody fits so perfectly into this vision - it’s great to know that our 
-            beautiful garments are being embraced and appreciated on so many levels. If you’re ever in Dunedin, 
-            we can recommend taking pause at Urban Calm. In Faye’s wise words - “slow down, take a breath and 
-            rethink in order to speed up”.</p>        
+                <p>Faye has a passion for introducing people to yoga and its benefits. She is 
+                committed to her belief that postures as simple as dangling and kneeling will 
+                help maintain mental and physical health, help us to open our bodies and minds 
+                and play a significant  part in preventing many common diseases. Conditions such 
+                as arthritis and other joint problems see huge improvements with Yin Yoga and 
+                regular practice may even prevent us from needing (or drastically delay any future 
+                need) for joint replacements.</p>         
             <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                   
             </div>
         </div>
