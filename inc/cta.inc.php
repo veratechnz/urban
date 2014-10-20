@@ -1,17 +1,14 @@
-<div class="col-sm-12">     
-            <!-- Blockquote -->
-            <div class="col-md-12 vboffset">
-              <hr>
-            <blockquote>
-            <h2>"PROPER EFFORT IS NOT THE EFFORT TO MAKE SOMETHING PARTICULAR HAPPEN . 
-                IT IS THE EFFORT TO BE AWARE AND AWAKE EACH MOMENT "AJAHN CHAH"</h2>
-            </blockquote>
-            <hr>
-            </div>
-            <!-- Blockquote End -->
-            <div class="urban-div">
-              <img src="images/urban-div.png" alt="" class="center-block">
-            </div>
+            <div class="col-sm-12">     
+                        <!-- Blockquote -->
+                        <div class="col-md-12 vboffset">
+                          <hr>
+                        <blockquote>
+                        <h2>"PROPER EFFORT IS NOT THE EFFORT TO MAKE SOMETHING PARTICULAR HAPPEN . 
+                            IT IS THE EFFORT TO BE AWARE AND AWAKE EACH MOMENT 'AJAHN CHAH'"</h2>
+                        </blockquote>
+                        <hr>
+                        </div>
+                        <!-- Blockquote End -->
             </div>
             <!-- Booking Info Ends -->
             <!-- CTA Buttons -->
@@ -28,3 +25,10 @@
                 <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                  
             </div>
             <!-- CTA Buttons End -->
+            <div class="col-xs-12">
+            <!-- Urban Image Div -->
+            <div class="urban-div vboffset1">
+              <img src="images/urban-div.png" alt="" class="center-block">
+            </div>
+            <!-- Urban Image Div -->
+            </div>

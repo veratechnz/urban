@@ -22,26 +22,26 @@
             <div class="col-md-3">
               <img src="images/slider-4.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
               <h3 class="text-center">TIMETABLE</h3>
-              <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                Consequatur, ea nihil repellendus nulla placeat veritatis</p>     
+              <p class="text-center">More info coming soon. Please stay tuned and up to date with our 
+                Facebook page for future events and news.</p>     
               </div>
               <div class="col-md-3">
                   <img src="images/slider-6.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
                   <h3 class="text-center">TESTIMONIALS</h3>
-                  <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                    Consequatur, ea nihil repellendus nulla placeat veritatis</p>    
+                  <p class="text-center">More info coming soon. Please stay tuned and up to date with our 
+                Facebook page for future events and news.</p>     
               </div>
             <div class="col-md-3">
               <img src="images/slider-26.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
               <h3 class="text-center">GALLERY</h3>
-              <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-              Consequatur, ea nihil repellendus nulla placeat veritatis</p>  
+              <p class="text-center">More info coming soon. Please stay tuned and up to date with our 
+                Facebook page for future events and news.</p>  
             </div>
               <div class="col-md-3">
                 <img src="images/slider-18.jpg" class="img-circle" class="img-responsive center-block" alt="image 1">
                 <h3 class="text-center">YOGA ABOUND</h3>
-                <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                  Consequatur, ea nihil repellendus nulla placeat veritatis</p>
+                <p class="text-center">More info coming soon. Please stay tuned and up to date with our 
+                Facebook page for future events and news.</p> 
               </div>
           </div>
             <div class="row">
@@ -63,24 +63,9 @@
         </div>
         <div class="row"  id="owner">
             <div class="col-md-6 col-md-push-5 inpad">
-            <p>After travelling the world, Faye is relishing the chance to be home and celebrating what New Zealand 
-            and Dunedin has to offer. When photographer Marelda O’Rourke Gallaher and Faye were creating new images 
-            for Urban Calm, it only made sense to celebrate some of Faye’s favourite things about Dunedin. The 
-            beautiful new photographs show Faye in classic Yin poses in front of some of Dunedin’s iconic street 
-            art, and wearing Silkbody clothing.</p>
-
-            <p>When explaining why she chooses to Yin in Silkbody, Faye says, “I love to Yin in Silkbody as in Yin 
-            it feels like you go back to beginning of self, back to the cocoon that is home. Yin is a time to 
-            check in and Silkbody sets that feeling in the truest form of delicate comfort - Yin is a time to 
-            give back to self and you know you are truly giving back to self when you dress in Silkbody.”</p>
-
-            <p>Urban Calm seeks to be a safe haven in a harsh world and Faye’s vision certainly seems to be coming 
-            to life. We’re happy that Silkbody fits so perfectly into this vision - it’s great to know that our 
-            beautiful garments are being embraced and appreciated on so many levels. If you’re ever in Dunedin, 
-            we can recommend taking pause at Urban Calm. In Faye’s wise words - “slow down, take a breath and 
-            rethink in order to speed up”.</p>
+              <h3 class="text-center notice vboffset3">UC also hosts International Teachers in the field of yoga/higher learning self devopment.
+              Please refer to our <a href="bookings.php" class="underline">Booking System</a> and go to enrolments to see whats going on at UC.</h3>
             <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                  
-
             </div>
 <!--Owner image -->
               <div class="col-md-2 col-md-pull-5">
@@ -88,9 +73,6 @@
             </div>
         </div>
         <div class="col-md-12">
-          <hr>
-          <h4 class="text-center notice">UC also hosts International Teachers in the field of yoga/higher learning self devopment.
-          Please refer to our <a href="bookings.php" class="underline">booking system</a> and go to enrolments to see whats going on at UC.</h4>
         </div>
           <?php include 'inc/cta.inc.php';?>
       </div> <!-- Container Ends -->

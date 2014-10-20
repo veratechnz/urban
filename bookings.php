@@ -145,10 +145,10 @@
             <div class="row">
             <div class="col-md-10 col-md-offset-1">
               <div class="prices text-center">
-              <h4>CASUAL</h4>
+              <h3>CASUAL</h3>
               <hr>
                 <p>Standard - $16.00  &nbsp;|&nbsp;  Senior Citizen/Student - $14.00</p>
-              <h4 class="voffset2">CONCESSIONS</h4>
+              <h3 class="voffset2">CONCESSIONS</h3>
               <hr>
                 <h4 class="vboffset">Standard:</h4>
                 <p class="vboffset">5 - $75.00 &nbsp;|&nbsp;  15 - $210.00 &nbsp;|&nbsp;  30 - $390.00</p>
@@ -187,6 +187,13 @@
         </div> 
       </div>
   <!-- Timetable & Pricing Ends -->
+  <!-- Urban Image Div -->
+  <div class="col-xs-12">
+  <div class="urban-div vboffset1">
+    <img src="images/urban-div.png" alt="" class="center-block">
+  </div>
+  <!-- Urban Image Div -->
+  </div>
 <!-- Container End --></div>
       </div>
       </div>

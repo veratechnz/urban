@@ -105,7 +105,7 @@ if(isset($_POST['submit'])) {
                     </div>
 
                     <div class="actions">
-                      <input type="submit" value="SEND" name="submit" id="submitButton" class="btn btn-default btn-lg voffset2" title="Click here to submit your message!" />
+                      <input type="submit" value="SEND" name="submit" id="submitButton" class="btn btn-default btn-lg voffset6" title="Click here to submit your message!" />
                     </div>
                   </fieldset>
                 </form>
@@ -121,6 +121,13 @@ if(isset($_POST['submit'])) {
             <!-- Blockquote End -->
             </div>
         </div>
+      <!-- Urban Image Div -->
+      <div class="col-xs-12">
+        <div class="urban-div vboffset1">
+          <img src="images/urban-div.png" alt="" class="center-block">
+        </div>
+      <!-- Urban Image Div -->
+      </div>
       </div>
 <!-- Container End -->
   </div>

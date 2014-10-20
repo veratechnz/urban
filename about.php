@@ -134,7 +134,7 @@
               you need to find your own inner focus and your own intuition. Many beginners find the prospect of judgement and being 
               stared at a barrier to their practice, and even experienced practitioners can be distracted by objectifications.</p>
             <blockquote>
-            <h2>YOU ARE BEST TO PRACTICE YOUR OWN FORM OF YOGA HOW EVER IMPERFECTLY THAT MAYBE THAN TO PRACTICE THE YOGA OF ANOTHER PERFECTLY</h2>
+            <h2>"YOU ARE BEST TO PRACTICE YOUR OWN FORM OF YOGA HOWEVER IMPERFECTLY THAT MAYBE THAN TO PRACTICE THE YOGA OF ANOTHER PERFECTLY"</h2>
             </blockquote>
             <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth vboffset1">BOOK TODAY</a>                  
            </div>
