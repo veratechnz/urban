@@ -75,6 +75,7 @@
         <div class="col-md-12">
         </div>
           <?php include 'inc/cta.inc.php';?>
+          <?php include 'inc/mobfooter.inc.php';?>
       </div> <!-- Container Ends -->
 <!--Owner biography section Ends-->
   </div>

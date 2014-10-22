@@ -1,4 +1,5 @@
-    <div class="container-fluid fader" id="footer">
+  <!-- Desktop Footer -->
+  <div class="container-fluid fader hidden-xs" id="footer">
     	<div class="container fader">
       <div class="row">
           <div class="col-md-6">
@@ -10,7 +11,11 @@
           	<p class="footy"><i class="fa fa-envelope-o footicon"></i><span class="footyspan">faye@urbanclam.co.nz</span></p>
           	<p class="footy"><i class="fa fa-map-marker footicon"></i><span class="footyspan">Level 1 Clarion building 286</span><br>
           		<span class="footyspanb">Princes Street Dunedin</span></p>
-			</div>
-          </div>
+			   </div>
+        </div>
       </div>
-    </div>
+  </div>
+<!-- Desktop Footer End  -->
+
+
+

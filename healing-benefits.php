@@ -79,6 +79,7 @@
         </div>
 <!--Owner biography section Ends-->
     <?php include 'inc/cta.inc.php';?>
+    <?php include 'inc/mobfooter.inc.php';?>
 <!-- Container End --></div>
       </div>
     </div>

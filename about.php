@@ -141,6 +141,7 @@
           </div>
          </div>
            <?php include 'inc/urban-div.inc.php';?>
+             <?php include 'inc/mobfooter.inc.php';?>
        </div> <!-- ContainerEnds -->
     </div>
   </div>

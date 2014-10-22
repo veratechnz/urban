@@ -71,12 +71,17 @@ body {height: 100%;}
 #footer{padding: 1%; background-color: #BDBAB9; color: #fff; height: 250px;}
 .footy{color: #fff;}
 .footyspan{padding-left: 2%;}
-.footyspanb{padding-left: 4%;}
 .footyhead{color: #fff; border-bottom: 1px solid #fff; padding-bottom: 2%; width: 80%;}
 .footmap{width: 50%px; height: 163px; margin-top: 4%; float: right; margin-right: 8%;}
 .footicon{color:#8D8887;}
 .footyiconsb{float: right;}
 .foots{margin:2px;}
+/*Mob Footer*/
+.footyspanb{margin-left: 8%; margin-right: 8%; color: #8D8887;}
+.foota{padding: 1%; background-color: #BDBAB9; color: #8D8887;}
+.gray{background-color: #BDBAB9;}
+.footmob{height: 25%; padding: 7%;}
+
 
 /* Vertical Offsets */
 .voffset  { margin-top: 15px;}
@@ -116,6 +121,11 @@ body {height: 100%;}
 .fb{color:#6883AF; text-decoration: underline;}
 .notice{background-color: efefef;}
 .underline{text-decoration: underline;}
+
+/*All Media Queries*/
+@media(max-width:767px){
+	#wrap{padding: 0px;}
+}
 
 
 

@@ -129,6 +129,7 @@ if(isset($_POST['submit'])) {
       <!-- Urban Image Div -->
       </div>
       </div>
+  <?php include 'inc/mobfooter.inc.php';?>
 <!-- Container End -->
   </div>
   </div>

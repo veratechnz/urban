@@ -2,11 +2,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="  Urban Calm yoga studio Dunedin Centre. In Yin Yoga we exercise the connective tissue, 
+    joints and ligaments by spending three minutes or more in one pose. Yin yoga is the oldest form of Yoga.">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>Urban Calm Yoga Studio, Dunedin, Yin Yoga</title>
+    <title>Urban Calm Yoga Studio | Dunedin | Yin Yoga</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

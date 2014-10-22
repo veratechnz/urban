@@ -194,6 +194,7 @@
   </div>
   <!-- Urban Image Div -->
   </div>
+  <?php include 'inc/mobfooter.inc.php';?>
 <!-- Container End --></div>
       </div>
       </div>
