@@ -8,7 +8,6 @@
 <section id="about">
 <!-- Php Nav and Links -->
 <?php include 'inc/logonav.inc.php';?>
-<?php include 'inc/js.inc.php';?>
 <!-- Php Nav and Links End -->
   <div class="container fader">  
     <!-- Home Page Slider Section -->
@@ -30,5 +29,6 @@
     <!-- Non js fallback to override body element non-display issues that may arise. -->
     <?php include 'inc/noscript.inc.php';?>
     <!-- End of non js fallback -->
+    <?php include 'inc/js.inc.php';?>
   </body>
 </html>

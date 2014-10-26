@@ -9,7 +9,6 @@
 <section id="about">
 <!-- Php Nav and Links -->
 <?php include 'inc/logonav.inc.php';?>
-<?php include 'inc/js.inc.php';?>
 <!-- Php Nav and Links End -->
   <div class="container fader">
         <div class="row" id="about-header">
@@ -58,13 +57,15 @@
 <!--Owner biography section-->
         <div class="row" id="owner-header">
             <div class="col-md-10 col-md-offset-1 header">
-              <h1>WHATS ON</h1>  
+              <h1>WHAT'S ON</h1>  
             </div>  
         </div>
         <div class="row"  id="owner">
             <div class="col-md-6 col-md-push-5 inpad">
-              <h3 class="text-center notice vboffset3">UC also hosts International Teachers in the field of yoga/higher learning self devopment.
-              Please refer to our <a href="bookings.php" class="underline">Booking System</a> and go to enrolments to see whats going on at UC.</h3>
+              <h3 class="text-center notice vboffset3">Uurban Calm Yin Yoga Dunedin also hosts International Teachers in 
+                the field of yoga/higher learning self development.
+              Please refer to our <a href="bookings.php" class="underline">Booking System</a> 
+              and go to enrolments to see what's going on at UC.</h3>
             <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                  
             </div>
 <!--Owner image -->
@@ -82,5 +83,6 @@
 </div>
 <?php include 'inc/footer.inc.php';?>
 </section>
+<?php include 'inc/js.inc.php';?>
 </body>
 </html>

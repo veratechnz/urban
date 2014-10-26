@@ -74,13 +74,16 @@ body {height: 100%;}
 .footyhead{color: #fff; border-bottom: 1px solid #fff; padding-bottom: 2%; width: 80%;}
 .footmap{width: 50%px; height: 163px; margin-top: 4%; float: right; margin-right: 8%;}
 .footicon{color:#8D8887;}
-.footyiconsb{float: right;}
+.footyiconsb{float: right; color: #f7f7f7;}
+.footyiconsb a{float: right; color: #f7f7f7;}
 .foots{margin:2px;}
+
 /*Mob Footer*/
-.footyspanb{margin-left: 8%; margin-right: 8%; color: #8D8887;}
+.footyspanb{margin-left: 4%; color: #fff;}
 .foota{padding: 1%; background-color: #BDBAB9; color: #8D8887;}
 .gray{background-color: #BDBAB9;}
 .footmob{height: 25%; padding: 7%;}
+#nomarg{margin: 0;}
 
 
 /* Vertical Offsets */
@@ -91,10 +94,12 @@ body {height: 100%;}
 .voffset4 { margin-top: 5%;}
 .voffset5 { margin-top: 22%;}
 .voffset6 { margin-top: 10%;}
+.voffset7 { margin-top: 30%;}
 .vboffset  { margin-bottom: 2%;}
 .vboffset1  { margin-bottom: 4%;}
 .vboffset2  { margin-bottom: 24%;}
 .vboffset3  { margin-bottom: 14%;}
+
 /*Circle Image*/
 .owned{max-width: 300px;}
 /***********************Aidans:**********************************/

@@ -59,7 +59,6 @@ if(isset($_POST['submit'])) {
 <section id="about">
 <!-- Php Nav and Links -->
 <?php include 'inc/logonav.inc.php';?>
-<?php include 'inc/js.inc.php';?>
 <!-- Php Nav and Links End -->
   <div class="container fader">
     <div class="row">
@@ -73,7 +72,7 @@ if(isset($_POST['submit'])) {
               <p><i class="fa fa-envelope-o"></i>&nbsp;faye@urbancalm.co.nz</p>
               <p class="vboffset1"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Level 1 Clarion Building<br>286 Princess Street Dunedin</p>
           <p><a target="_blank" href="https://goo.gl/maps/Q4jKQ"><img src="images/map.jpg" alt="" class="img-rounded img-responsive vboffset" href="https://goo.gl/maps/Q4jKQ"></a></p>
-                <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset5">BOOK TODAY</a>                 
+                <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset7">BOOK TODAY</a>                 
             </div>
             <div class="col-md-8">
                     <form role="form" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" id="contactform">
@@ -110,32 +109,19 @@ if(isset($_POST['submit'])) {
                   </fieldset>
                 </form>
               </div>
-            <!-- Blockquote -->
-            <div class="col-md-12 vboffset2 voffset1">
-              <hr>
-            <blockquote>
-            <h2>"IDEALLY THE ULTIMATE RETREAT IS TO RETREAT FROM THE PAST AND THE FUTURE TO ALLOW OURSELVES TO REMAIN IN THE PRESENT. "</h2>
-            </blockquote>
-            <hr>
-            </div>
-            <!-- Blockquote End -->
             </div>
         </div>
-      <!-- Urban Image Div -->
-      <div class="col-xs-12">
-        <div class="urban-div vboffset1">
-          <img src="images/urban-div.png" alt="" class="center-block">
-        </div>
-      <!-- Urban Image Div -->
       </div>
-      </div>
+        <?php include 'inc/cta.inc.php';?>
   <?php include 'inc/mobfooter.inc.php';?>
 <!-- Container End -->
   </div>
   </div>
 </div>
+</div>
 <!--Spiritual information section ends-->
 <?php include 'inc/footer.inc.php';?>
 </section>
+<?php include 'inc/js.inc.php';?>
 </body>
 </html>

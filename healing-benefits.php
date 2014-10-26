@@ -9,7 +9,6 @@
 <section id="about">
 <!-- Php Nav and Links -->
 <?php include 'inc/logonav.inc.php';?>
-<?php include 'inc/js.inc.php';?>
 <!-- Php Nav and Links End -->
   <div class="container fader">
         <div class="row" id="about-header">
@@ -19,7 +18,7 @@
             <div class="row">
             <div class="col-md-10 col-md-offset-1">
             <div class="col-md-8">
-               <p>The Purpose of Yin Yoga is to restore the body to its natural state of health and to actualise our
+               <p>The Purpose of Urban Calm Yin Yoga Dunedin is to restore the body to its natural state of health and to actualise our
                 ability to move with fluidity, power and grace. Like all forms of yoga, Yin is a holistic practice. 
                 This does not mean it is 'mystical', simply that it simultaneously exercises the body AND the mind, 
                 the subjective AND the objective, and  reconciles the individual with the world in which s/he lives 
@@ -51,7 +50,7 @@
         </div>
         <div class="row vboffset1"  id="owner">
             <div class="col-md-6 col-md-push-5 inpad">
-            <p>Although the list is not complete, Yin yoga has demonstrable benefits in the following areas:</p>
+            <p>Although the list is not complete, Yin Yoga Dunedin has demonstrable benefits in the following areas:</p>
               
             <ul>
               <li>Calming and balancing of the mind and body</li>
@@ -86,5 +85,6 @@
     <?php include 'inc/footer.inc.php';?>
 <!--Spiritual information section ends-->
 </section>
+<?php include 'inc/js.inc.php';?>
 </body>
 </html>

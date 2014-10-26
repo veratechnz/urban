@@ -3,8 +3,8 @@
                         <div class="col-md-12 vboffset">
                           <hr>
                         <blockquote>
-                        <h2>"PROPER EFFORT IS NOT THE EFFORT TO MAKE SOMETHING PARTICULAR HAPPEN . 
-                            IT IS THE EFFORT TO BE AWARE AND AWAKE EACH MOMENT 'AJAHN CHAH'"</h2>
+                        <h2>"PROPER EFFORT IS NOT THE EFFORT TO MAKE SOMETHING PARTICULAR HAPPEN. 
+                            IT IS THE EFFORT TO BE AWARE AND AWAKE EACH MOMENT 'AJAHN CHAH'".</h2>
                         </blockquote>
                         <hr>
                         </div>

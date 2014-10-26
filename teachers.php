@@ -9,7 +9,6 @@
 <section id="about">
 <!-- Php Nav and Links -->
 <?php include 'inc/logonav.inc.php';?>
-<?php include 'inc/js.inc.php';?>
 <!-- Php Nav and Links End -->
   <div class="container fader">
         <div class="row" id="about-header">
@@ -19,7 +18,7 @@
             <div class="row">
             <div class="col-md-10 col-md-offset-1">
             <div class="col-md-8">
-                <p>Having travelled the world more or less since I graduated as a chef at the age of 18 and set 
+                <p>I have travelled the world more or less since I graduated as a chef at the age of 18 and set 
                 sail for Europe at the age of 21. I eventually settled into Yin yoga - there is something about 
                 finding and feeling the true depth of your body in a pose that has me hooked. I love what happens
                 when we stop pushing and pulling ourselves, not only into poses, but in life.</p>
@@ -27,7 +26,7 @@
                 <p>During my travels I spent six months in Costa Rica at a temple in the jungle - practising Hatha 
                 Yoga, meditating and fasting on Noni Juice – and brown rice. I prepared myself for India through 
                 spiritual readings and daily asana practice. I attended a Kriya Yoga initiation with Shibendu 
-                lahiri and continued to spend over a month in this incrediblle city full of temples, holy cows and 
+                lahiri and continued to spend over a month in this incredible city full of temples, holy cows and 
                 sacred scents.</p>
 
                 <p>I spent two months at a school called Agama Yoga where we practised Yin style yoga, living in an 
@@ -84,7 +83,7 @@
             <img src="images/teacher-c.jpg" class="img-responsive img-circle" alt="Urban calm logo">
             </div> 
             <div class="col-md-8">
-            <p>I'm Kimberley and I am honoured and delighted to be joining Faye and Urban Calm as a teacher 
+            <p>I'm Kimberley and I am honoured and delighted to be joining Faye at Urban Calm Yin Yoga Dunedin as a teacher 
               in October.</p>
 
             <p>I am a practising naturopath, massage and bodywork therapist and have had my clinic in Moray 
@@ -156,7 +155,7 @@
             <img src="images/teacher-a.jpg" class="img-responsive img-circle" alt="Urban calm logo">
           </div> 
             <div class="col-md-8">
-            <p>UC is very fortunate to have Sasha practicing Karma Yoga here at the centre</p>
+            <p>Urban Calm Yin Yoga Dunedin is very fortunate to have Sasha practicing Karma Yoga here at the centre</p>
 
             <p>Man can not discover new oceans until he has the courage to lose sight of the shore.
                With a change in the wind , one thing led to another and I find myself on board a 25 mt yacht with 
@@ -165,10 +164,10 @@
 
             <p>We traverse the great Barrier Reef and embrace on our journey across what is known as the Treacherous 
                Tasman to this place they call Dunedin . One jelly fish one flying fish on deck eight whales thirty 
-               dolphins one storm five books ten movies and a couple weeks later we cross new Zealand waters through
+               dolphins one storm five books ten movies and a couple weeks later we cross New Zealand waters through
                cook straight down east coast , through otago harbour and arrive in Dunedin.</p>
 
-            <p>A couple of months later and this californian has settled ashore., making Dunedin my new home.</p>
+            <p>A couple of months later and this californian has settled ashore, making Dunedin my new home.</p>
 
             <p>I have a love for the ocean nature and animals after growing up in California.</p>
             <blockquote> 
@@ -194,5 +193,6 @@
 <?php include 'inc/footer.inc.php';?>
 <!--Spiritual information section ends-->
 </section>
+<?php include 'inc/js.inc.php';?>
 </body>
 </html>

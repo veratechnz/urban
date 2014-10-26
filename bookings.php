@@ -9,7 +9,6 @@
 <section id="about">
 <!-- Php Nav and Links -->
 <?php include 'inc/logonav.inc.php';?>
-<?php include 'inc/js.inc.php';?>
 <!-- Php Nav and Links End -->
   <div class="container fader">
         <div class="row" id="about-header">
@@ -27,7 +26,7 @@
             <!-- Visible Phone -->
             <p><button type="button" class="visible-xs btn btn-default btn-lg center-block" style="margin-top: 5%;">BOOK NOW</button></p>
               <!-- Booking Info -->
-              <h3>JUMP ONLINE TO BOOK YOUR YIN YOGA SESSION AND GAURANTEE YOUR SPACE:</h3>
+              <h3>JUMP ONLINE TO BOOK YOUR YIN YOGA DUNEDIN SESSION AND GAURANTEE YOUR SPACE:</h3>
               <p class="text-center">Please check website or <a href="https://www.facebook.com/pages/Urban-Calm-Yin-Yoga-Centre/201863603334816" target="_blank"><span class="fb">Facebook</span></a>&nbsp;for up to date timetables as our public holidays vary.</p>
               <hr>
                 <p><b class="light">1.</b> Log in to our Mind Body Online booking system ( if you have never logged in 
@@ -111,7 +110,8 @@
                           <td></td>
                         </tr>
                     </tbody>
-                </table>          
+                </table>  
+                <hr>        
             </div>
         </div> 
       </div>
@@ -142,23 +142,49 @@
         <div class="col-md-10 col-md-offset-1 header hidden-xs">
             <h1>PRICES</h1>
           </div>
-            <div class="row">
+          <div class="row">
             <div class="col-md-10 col-md-offset-1">
+              <table class="table table-striped">
+                    <thead>
+                        <tr>
+                          <th></th>
+                          <th>1 SESSION</th>
+                          <th>5 SESSIONS</th>
+                          <th>15 SESSIONS</th>
+                          <th>30 SESSIONS</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                          <td>STANDARD / CASUAL</td>
+                          <td>$16.00</td>
+                          <td>$75.00</td>
+                          <td>$210.00</td>
+                          <td>$390.00</td>
+                        </tr>
+                        <tr>
+                          <td>SENIOR CITIZEN</td>
+                          <td>$14.00</td>
+                          <td>$65.00</td>
+                          <td>$180.00</td>
+                          <td>$220.00</td>
+                        </tr>
+                        <tr>
+                          <td>STUDENT</td>
+                          <td>$14.00</td>
+                          <td>$65.00</td>
+                          <td>$180.00</td>
+                          <td>$220.00</td>
+                        </tr>
+                    </tbody>
+                </table>          
               <div class="prices text-center">
-              <h3>CASUAL</h3>
-              <hr>
-                <p>Standard - $16.00  &nbsp;|&nbsp;  Senior Citizen/Student - $14.00</p>
-              <h3 class="voffset2">CONCESSIONS</h3>
-              <hr>
-                <h4 class="vboffset">Standard:</h4>
-                <p class="vboffset">5 - $75.00 &nbsp;|&nbsp;  15 - $210.00 &nbsp;|&nbsp;  30 - $390.00</p>
-                <h4 class="vboffset">Senior Citizen &nbsp;|&nbsp; Student:</h4>
-                <p>5 - $65.00 &nbsp;|&nbsp;  15 - $180.00 &nbsp;|&nbsp;  30 - $220.00</p>
-                <p>* Non transferable - non refundable. Senior Citizens 60+</p>
-                <p>Student ID Required. Always reserve your mat online or via email.</p>
+                <p>* Non transferable - non refundable. Senior Citizens 60+
+                   Student ID Required. Always reserve your mat online or via email.</p>
                 <p>All equipment provided within the cost.</p>
               </div>
               <hr>
+            </div>
             <!-- Booking Info Ends -->
             <!-- CTA Buttons -->
             <div class="wrapt">
@@ -179,7 +205,7 @@
             <!-- Blockquote -->
               <div class="col-md-12 vboffset">
               <blockquote class="cquote">
-              <h2>"THIS IS WHEN YIN BECOMES FASCINATING AS EACH MINUTE GOES BY, WE FEEL THE BODY OPEN NATURALLY"</h2>
+              <h2>"THIS IS WHEN YIN YOGA BECOMES FASCINATING AS EACH MINUTE GOES BY, WE FEEL THE BODY OPEN NATURALLY"</h2>
               </blockquote>
               </div>
             <!-- Blockquote End -->
@@ -202,5 +228,6 @@
   </div>
 <!--Spiritual information section ends-->
 </section>
+<?php include 'inc/js.inc.php';?>
 </body>
 </html>
