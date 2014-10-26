@@ -16,6 +16,7 @@ h3{font-weight: 300; font-size: 22px; letter-spacing: 0.20em; color: #484746;}
 html body section#about section#navigation.voffset.hidden-xs div.container div.row.nav-height div.col-md-10.col-md-offset-1.nav-height.nopad div#navee.nav-height.center-block ul#nav-list.nav-height.navb li.cent-fix.nav-height a.navcss.active{color: #BDBAB9;}
 li {font-size: 16px;}
 a {color: #2E2E2E;}
+.nusize{color: #262626; font-size: 16px;}
 
 /*Google Fonts*/
 h1, h2, h3, h4, h5, h6 {font-family: 'Oswald', sans-serif;}
@@ -85,7 +86,6 @@ body {height: 100%;}
 .footmob{height: 25%; padding: 7%;}
 #nomarg{margin: 0;}
 
-
 /* Vertical Offsets */
 .voffset  { margin-top: 15px;}
 .voffset1 { margin-top: 20px;}
@@ -112,7 +112,6 @@ body {height: 100%;}
 .inpad{padding-top: 2%;}
 
 /*Events page*/
-
 #events-header{margin-right: -15px;}
 #events{padding-top: 30px;}
 #events img{width: 200px;}
