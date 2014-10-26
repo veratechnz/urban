@@ -60,7 +60,8 @@ if(isset($_POST['submit'])) {
 <!-- Php Nav and Links -->
 <?php include 'inc/logonav.inc.php';?>
 <!-- Php Nav and Links End -->
-  <div class="container fader">
+<div class="container fader">
+  <div class="infader">
     <div class="row">
       <div class="col-sm-10 col-md-offset-1">
         <div class="headerb hidden-xs">
@@ -112,11 +113,13 @@ if(isset($_POST['submit'])) {
             </div>
         </div>
       </div>
-        <?php include 'inc/cta.inc.php';?>
-  <?php include 'inc/mobfooter.inc.php';?>
+<?php include 'inc/cta.inc.php';?>
+<?php include 'inc/mobfooter.inc.php';?>
 <!-- Container End -->
-  </div>
-  </div>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
 <!--Spiritual information section ends-->

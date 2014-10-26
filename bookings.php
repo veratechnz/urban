@@ -11,6 +11,7 @@
 <?php include 'inc/logonav.inc.php';?>
 <!-- Php Nav and Links End -->
   <div class="container fader">
+      <div class="infader">
         <div class="row" id="about-header">
           <!-- Hidden On Phone -->
           <div class="col-md-10 col-md-offset-1 header hidden-xs">
@@ -58,7 +59,7 @@
                 <table class="table table-striped">
                     <thead>
                         <tr>
-                          <th>TIME:</th>
+                          <th></th>
                           <th>MON</th>
                           <th>TUE</th>
                           <th>WED</th>
@@ -211,21 +212,21 @@
             <!-- Blockquote End -->
           </div>
         </div> 
-      </div>
-  <!-- Timetable & Pricing Ends -->
-  <!-- Urban Image Div -->
-  <div class="col-xs-12">
-  <div class="urban-div vboffset1">
-    <img src="images/urban-div.png" alt="" class="center-block">
-  </div>
-  <!-- Urban Image Div -->
-  </div>
-  <?php include 'inc/mobfooter.inc.php';?>
-<!-- Container End --></div>
+          <!-- Timetable & Pricing Ends -->
+          <!-- Urban Image Div -->
+          <div class="col-xs-12">
+          <div class="urban-div vboffset1">
+            <img src="images/urban-div.png" alt="" class="center-block">
+          </div>
+          <!-- Urban Image Div -->
+          </div>
+          <?php include 'inc/mobfooter.inc.php';?>
+  </div><!-- Container infader Ends -->
+</div><!-- Container fader Ends -->
       </div>
       </div>
 <?php include 'inc/footer.inc.php';?>
-  </div>
+      </div>
 <!--Spiritual information section ends-->
 </section>
 <?php include 'inc/js.inc.php';?>

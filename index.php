@@ -10,6 +10,7 @@
 <?php include 'inc/logonav.inc.php';?>
 <!-- Php Nav and Links End -->
   <div class="container fader">  
+        <div class="infader">
     <!-- Home Page Slider Section -->
         <div class="row voffset3">
           <div class="col-md-6 col-md-offset-3">
@@ -20,8 +21,8 @@
               <p class="text-center homepara">Phone: 03 477 2277 &nbsp;|&nbsp; Level 1 Clarion Building, 286 Princess Street Dunedin.</p>
           </div>
         </div>
-    <!-- Home Page Slider Section Ends -->
-    </div> 
+     </div>  <!-- Infader Ends -->
+    </div>    <!-- Container Fader Ends -->
     <!-- /container ends -->
     <!-- Js Scripts Begin -->
     <?php include 'inc/js.inc.php';?>

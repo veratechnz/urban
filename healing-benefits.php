@@ -11,6 +11,7 @@
 <?php include 'inc/logonav.inc.php';?>
 <!-- Php Nav and Links End -->
   <div class="container fader">
+    <div class="infader">  
         <div class="row" id="about-header">
           <div class="col-md-10 col-md-offset-1 header">
             <h1>HEALING BENEFITS</h1>
@@ -77,12 +78,13 @@
             </div>
         </div>
 <!--Owner biography section Ends-->
-    <?php include 'inc/cta.inc.php';?>
-    <?php include 'inc/mobfooter.inc.php';?>
-<!-- Container End --></div>
-      </div>
+<?php include 'inc/cta.inc.php';?>
+<?php include 'inc/mobfooter.inc.php';?>
+    </div><!-- Container End -->
+    </div><!-- Infader Ends -->
     </div>
-    <?php include 'inc/footer.inc.php';?>
+    </div>
+<?php include 'inc/footer.inc.php';?>
 <!--Spiritual information section ends-->
 </section>
 <?php include 'inc/js.inc.php';?>

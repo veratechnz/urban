@@ -11,6 +11,7 @@
 <?php include 'inc/logonav.inc.php';?>
 <!-- Php Nav and Links End -->
   <div class="container fader">
+    <div class="infader">
         <div class="row" id="about-header">
           <div class="col-md-10 col-md-offset-1 header hidden-xs">
             <h1>ABOUT</h1>
@@ -89,10 +90,10 @@
           <div class="col-md-10 col-md-offset-1">
               <h4>YIN YOGA DUNEDIN AND URBAN CALM</h4>
               <p>Yin Yoga is a slow-paced style of yoga with poses (asanas) that are held for longer periods of time than in other styles—three 
-                to five minutes or even as long as twenty minutes is common. Yin asanas apply moderate and controlled stress to the connective tissues 
-                (the tendons, fascia and ligaments) with the aim of improving  flexibility and increasing circulation and hydration of the joints. 
-                As a slow, meditative and holistic practice Yin also cultivates a profound bodily and inner awareness, a silence, calm and equanimity 
-                which brings a peaceful interconnection to otherwise fragmented contemporary lifestyles.</p>
+              to five minutes or even as long as twenty minutes is common. Yin asanas apply moderate and controlled stress to the connective tissues 
+              (the tendons, fascia and ligaments) with the aim of improving  flexibility and increasing circulation and hydration of the joints. 
+              As a slow, meditative and holistic practice Yin also cultivates a profound bodily and inner awareness, a silence, calm and equanimity 
+              which brings a peaceful interconnection to otherwise fragmented contemporary lifestyles.</p>
 
               <p>At Urban Calm Yin Yoga Dunedin we recognise that life (particularly contemporary urban life) has become fragmented and supersaturated with time pressures and performance demands.
                We all seem to be going at a hundred miles an hour, flitting from one activity or responsibility to the next. 
@@ -106,6 +107,7 @@
               connective tissues you are also finding a deeply holistic reconciliation. The slow pace of Yin and its meditative 
               foundations open us to ourselves. As our bodily awareness grows we relearn our very selves. In this deep holistic 
               relaxation which brings us face to face with our bodies, our minds and our spirits, we find an 'inner teacher'.</p>
+              <hr>
 
               <h4 class="voffset">OUR INTUITIVE APPROACH TO YIN</h4>
               <p>At Urban Calm we are committed to helping you find this inner teacher. Everybody, every mind is different. 
@@ -115,6 +117,7 @@
               anything in particular – it is instead always a matter of you finding your 'inner teacher', learning your own limitations 
               and feeling and intuiting how things need to be. At Urban Calm we will guide you to your own intuition: we will never 
               correct or adjust you nor will we force you into any idealised image or pose.</p>
+              <hr>
 
               <h4 class="voffset">EYES WIDE SHUT</h4>
               <p>Our intuitive approach goes deeper than simply abandoning forceful 'correction' or adjustment – we 
@@ -132,6 +135,7 @@
               no-correction/ no-adjustment technique. By teaching with our eyes closed we hope to give you the privacy and space 
               you need to find your own inner focus and your own intuition. Many beginners find the prospect of judgement and being 
               stared at a barrier to their practice, and even experienced practitioners can be distracted by objectifications.</p>
+              <hr>
             <blockquote>
             <h2>"YOU ARE BEST TO PRACTICE YOUR OWN FORM OF YOGA HOWEVER IMPERFECTLY THAT MAYBE THAN TO PRACTICE THE YOGA OF ANOTHER PERFECTLY"</h2>
             </blockquote>
@@ -139,12 +143,15 @@
            </div>
           </div>
          </div>
-           <?php include 'inc/urban-div.inc.php';?>
-             <?php include 'inc/mobfooter.inc.php';?>
-       </div> <!-- ContainerEnds -->
+<?php include 'inc/urban-div.inc.php';?>
+<?php include 'inc/mobfooter.inc.php';?>
+          <!-- infader ends -->
+          </div>
+           <!-- Container fader Ends  -->
+       </div>
     </div>
   </div>
-  <?php include 'inc/footer.inc.php';?>
+<?php include 'inc/footer.inc.php';?>
 <!--Spiritual information section ends-->
 </section>
 <?php include 'inc/js.inc.php';?>

@@ -11,6 +11,7 @@
 <?php include 'inc/logonav.inc.php';?>
 <!-- Php Nav and Links End -->
   <div class="container fader">
+    <div class="infader">
         <div class="row" id="about-header">
           <div class="col-md-10 col-md-offset-1 header">
             <h1>FAYE EXTENDED</h1>
@@ -188,6 +189,7 @@
       </div>
       <?php include 'inc/mobfooter.inc.php';?>
 <!-- Container End --></div>
+<!-- Infader End --></div>
 </div>
 </div>
 <?php include 'inc/footer.inc.php';?>

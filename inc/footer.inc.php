@@ -1,6 +1,6 @@
   <!-- Desktop Footer -->
-  <div class="container-fluid fader hidden-xs" id="footer">
-    	<div class="container fader">
+  <div class="container-fluid hidden-xs" id="footer">
+    	<div class="container">
       <div class="row">
           <div class="col-md-6">
           <p><a target="_blank" href="https://goo.gl/maps/Q4jKQ"><img src="images/map.jpg" title="Click To Launch Our Google Map" alt="Click To Launch Our Google Map" class="img-responsive center-block footmap" href="https://goo.gl/maps/Q4jKQ"></a></p>

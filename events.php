@@ -11,6 +11,7 @@
 <?php include 'inc/logonav.inc.php';?>
 <!-- Php Nav and Links End -->
   <div class="container fader">
+      <div class="infader">
         <div class="row" id="about-header">
           <div class="col-md-10 col-md-offset-1 header">
             <h1>EVENTS</h1>
@@ -75,9 +76,10 @@
         </div>
         <div class="col-md-12">
         </div>
-          <?php include 'inc/cta.inc.php';?>
-          <?php include 'inc/mobfooter.inc.php';?>
+<?php include 'inc/cta.inc.php';?>
+<?php include 'inc/mobfooter.inc.php';?>
       </div> <!-- Container Ends -->
+        </div><!-- Infader ends -->
 <!--Owner biography section Ends-->
   </div>
 </div>
