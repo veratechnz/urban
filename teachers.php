@@ -180,14 +180,8 @@
           </div>
             </div> 
         </div>
-      <!-- Urban Image Div -->
-      <div class="col-xs-12">
-        <div class="urban-div vboffset1">
-          <img src="images/urban-div.png" alt="" class="center-block">
-        </div>
-      <!-- Urban Image Div -->
-      </div>
-      <?php include 'inc/mobfooter.inc.php';?>
+<?php include 'inc/urban-div.inc.php';?>
+<?php include 'inc/mobfooter.inc.php';?>
 <!-- Container End --></div>
 <!-- Infader End --></div>
 </div>

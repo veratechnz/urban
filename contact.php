@@ -72,7 +72,7 @@ if(isset($_POST['submit'])) {
               <p><i class="fa fa-phone voffset4"></i>&nbsp;03 477 2277</p>
               <p><i class="fa fa-envelope-o"></i>&nbsp;faye@urbancalm.co.nz</p>
               <p class="vboffset1"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Level 1 Clarion Building<br>286 Princess Street Dunedin</p>
-          <p><a target="_blank" href="https://goo.gl/maps/Q4jKQ"><img src="images/map.jpg" alt="" class="img-rounded img-responsive vboffset" href="https://goo.gl/maps/Q4jKQ"></a></p>
+          <p><a target="_blank" href="https://goo.gl/maps/Q4jKQ"><img src="images/map.jpg" alt="Map Of Urban Calm Dunedin Yin Yoga" title="Go To Our Google Map" class="img-rounded img-responsive vboffset" href="https://goo.gl/maps/Q4jKQ"></a></p>
                 <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset7">BOOK TODAY</a>                 
             </div>
             <div class="col-md-8">
@@ -114,6 +114,7 @@ if(isset($_POST['submit'])) {
         </div>
       </div>
 <?php include 'inc/cta.inc.php';?>
+<?php include 'inc/urban-div.inc.php';?>
 <?php include 'inc/mobfooter.inc.php';?>
 <!-- Container End -->
 </div>

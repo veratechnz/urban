@@ -79,11 +79,13 @@
         </div>
 <!--Owner biography section Ends-->
 <?php include 'inc/cta.inc.php';?>
-<?php include 'inc/mobfooter.inc.php';?>
+<?php include 'inc/urban-div.inc.php';?>
+
     </div><!-- Container End -->
     </div><!-- Infader Ends -->
     </div>
     </div>
+<?php include 'inc/mobfooter.inc.php';?>
 <?php include 'inc/footer.inc.php';?>
 <!--Spiritual information section ends-->
 </section>

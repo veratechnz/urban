@@ -25,11 +25,11 @@
     </div>    <!-- Container Fader Ends -->
     <!-- /container ends -->
     <!-- Js Scripts Begin -->
-    <?php include 'inc/js.inc.php';?>
+<?php include 'inc/js.inc.php';?>
     <!-- Js Scripts End -->
     <!-- Non js fallback to override body element non-display issues that may arise. -->
-    <?php include 'inc/noscript.inc.php';?>
+<?php include 'inc/noscript.inc.php';?>
     <!-- End of non js fallback -->
-    <?php include 'inc/js.inc.php';?>
+<?php include 'inc/js.inc.php';?>
   </body>
 </html>

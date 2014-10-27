@@ -33,7 +33,7 @@
             </div>
 <!-- Flower image -->
             <div class="col-md-4" id="flower">
-                <img src="images/urb.jpg" class="img-responsive img-circle owned">
+                <img src="images/yin-yoga-dunedin.jpg" class="img-responsive img-circle owned">
             </div> 
           </div>
             </div> 

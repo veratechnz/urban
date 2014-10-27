@@ -25,10 +25,3 @@
                 <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                  
             </div>
             <!-- CTA Buttons End -->
-            <div class="col-xs-12">
-            <!-- Urban Image Div -->
-            <div class="urban-div vboffset1">
-              <img src="images/urban-div.png" alt="" class="center-block">
-            </div>
-            <!-- Urban Image Div -->
-            </div>

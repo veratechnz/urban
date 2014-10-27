@@ -213,15 +213,9 @@
           </div>
         </div> 
           <!-- Timetable & Pricing Ends -->
-          <!-- Urban Image Div -->
-          <div class="col-xs-12">
-          <div class="urban-div vboffset1">
-            <img src="images/urban-div.png" alt="" class="center-block">
-          </div>
-          <!-- Urban Image Div -->
-          </div>
-          <?php include 'inc/mobfooter.inc.php';?>
-  </div><!-- Container infader Ends -->
+<?php include 'inc/urban-div.inc.php';?>
+<?php include 'inc/mobfooter.inc.php';?>
+</div><!-- Container infader Ends -->
 </div><!-- Container fader Ends -->
       </div>
       </div>
