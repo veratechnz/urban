@@ -24,10 +24,10 @@
             <div class="col-md-12">
             <!-- Hidden On Phone -->
               <hr class="hidden-xs">
-            <!-- Visible Phone -->
-            <p><button type="button" class="visible-xs btn btn-default btn-lg center-block" style="margin-top: 5%;">BOOK NOW</button></p>
               <!-- Booking Info -->
               <h3>JUMP ONLINE TO BOOK YOUR YIN YOGA DUNEDIN SESSION AND GAURANTEE YOUR SPACE:</h3>
+            <!-- Visible Phone -->
+            <p><a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=130751" target="_blank" class="visible-xs btn btn-default btn-lg center-block" style="margin-top: 5%;">BOOK NOW</a></p>
               <p class="text-center">Please check website or <a href="https://www.facebook.com/pages/Urban-Calm-Yin-Yoga-Centre/201863603334816" target="_blank"><span class="fb">Facebook</span></a>&nbsp;for up to date timetables as our public holidays vary.</p>
               <hr>
                 <p><b class="light">1.</b> Log in to our Mind Body Online booking system ( if you have never logged in 
@@ -39,10 +39,12 @@
                 <p>You will be sent a confirmation email confirming your class has been booked/cancelled. If you do not 
                   receive one please email or call us. Cancellations can be made online 60 minutes prior to class starting. Please do not 
                   hesitate to call us if you cannot make class we understand here at Urban Calm that life is full of 
-                  changes. <b class="light">PH: 03 477 2277</b></p>
+                  changes. <strong>PH: 03 477 2277</strong></p>
                 <p>Public holiday times vary, please call or check Facebook for an up to date timetable. If you have already 
                   been for a class your information is already in so please use the LEFT hand side to Log In.</p>  
-                <p><a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=130751" target="_blank" class="btn btn-default btn-lg center-block bwidth">BOOK NOW</a></p>        
+                <p>What to Wear: Comfortable lose fitting clothing - (we don't create allot of sweat whilst practicing Yin)
+                  Room always at a cosy temperature. </p>
+                <div><a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=130751" target="_blank" class="btn btn-default btn-lg center-block bwidth">BOOK NOW</a></div>        
             </div>
             <!-- Booking Info Ends -->
           </div>

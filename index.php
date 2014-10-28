@@ -21,6 +21,18 @@
               <p class="text-center homepara">Phone: 03 477 2277 &nbsp;|&nbsp; Level 1 Clarion Building, 286 Princess Street Dunedin.</p>
           </div>
         </div>
+        <!-- Faye's Requested Quote -->
+<!--         <div class="col-md-6 col-md-offset-3">
+          <blockquote>
+          <h2>"WITHIN 3 MONTHS I AM LIVING PROOF YIN YOGA WORKS. FROM DAILY PAIN KILLERS AND ANTI FLAMITORIES - TO A 
+               FLEXIBLE STRONG BODY AND DRUG FREE!"</h2>
+          <h2 class="person">LIZ</h2>
+          <!-- Float Fix div -->
+<!--           <div style="clear: both;"></div> -->
+          <!-- Float Fix div ends -->
+<!--           </blockquote>
+</div> --> 
+        <!-- Faye's Requested Quote ENDS -->
      </div>  <!-- Infader Ends -->
     </div>    <!-- Container Fader Ends -->
     <!-- /container ends -->

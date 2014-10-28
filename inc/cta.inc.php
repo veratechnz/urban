@@ -3,8 +3,12 @@
                         <div class="col-md-12 vboffset">
                           <hr>
                         <blockquote>
-                        <h2>"PROPER EFFORT IS NOT THE EFFORT TO MAKE SOMETHING PARTICULAR HAPPEN. 
-                            IT IS THE EFFORT TO BE AWARE AND AWAKE EACH MOMENT 'AJAHN CHAH'".</h2>
+                        <h2>"YIN IS THE MOST RELAXING YOGA I'VE EVER DONE YET. I FEEL STRONGER AND MORE SUPPLE THAN EVER. 
+                            ITS ALSO IS AS MUCH MIND TIME AND BODY TIME - A QUIET OASIS TO REGROUP AND RECHARGE FOR THE WEEK."</h2>
+                            <h2 class="person">LIZ</h2>
+                            <!-- Float Fix div -->
+                            <div style="clear: both;"></div>
+                            <!-- Float Fix div ends -->
                         </blockquote>
                         <hr>
                         </div>

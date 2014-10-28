@@ -17,6 +17,7 @@ html body section#about section#navigation.voffset.hidden-xs div.container div.r
 li {font-size: 16px;}
 a {color: #2E2E2E;}
 .nusize{color: #262626; font-size: 16px;}
+.person{color: #b3b3b3; float: right; margin-right: 8%; clearfix: auto;}
 
 /*Google Fonts*/
 h1, h2, h3, h4, h5, h6 {font-family: 'Oswald', sans-serif;}

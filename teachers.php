@@ -30,7 +30,7 @@
                 lahiri and continued to spend over a month in this incredible city full of temples, holy cows and 
                 sacred scents.</p>
 
-                <p>I spent two months at a school called Agama Yoga where we practised Yin style yoga, living in an 
+                <p>I lived in " Varinasi " for a month where attended Kyria Yoga. I spent two months at a school called Agama Yoga where we practised Yin style yoga, living in an 
                 Ashram where I continued Yogic cleansing of the body, mind and spirit daily. Five years later I was 
                 back in the Jungle Temple again and finally undertaking Yoga teacher training Pavones Yoga Centre I spent 
                 seven months practising, teaching and studying. My teaching time in Costa Rica was all Karma Yoga and I 
@@ -42,7 +42,7 @@
             </div>
 <!-- Flower image -->
             <div class="col-md-4" id="flower">
-                <img src="images/slider-25.jpg" class="img-responsive img-circle" alt="Urban calm logo">
+                <img src="images/slider-28.jpg" class="img-responsive img-circle" alt="Urban calm logo">
             </div> 
           </div>
             </div> 
@@ -70,8 +70,7 @@
                       
                     <blockquote> 
                     <h2>"IT GIVES ME GREAT JOY TO SEE EACH ONE OF US BECOME THE MOST GLORIOUS EXPRESSION OF LOVE AND BALANCE.”"</h2> 
-                    </blockquote>
-                    <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth vboffset1">BOOK TODAY</a>                              
+                    </blockquote>                             
               </div>
            </div>
         </div>
@@ -101,7 +100,6 @@
               <blockquote>
               <h2>"I FIRST DISCOVERED THE JOY AND THE TRANSFORMATION OF YOGA 20 YEARS AGO" </h2> 
               </blockquote>  
-              <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                  
             </div>
 <!-- image -->
           </div>
@@ -140,7 +138,6 @@
               <blockquote>
               <h2>"TISSUE UNWINDS WHEN THE MIND GIVES IT TIME." </h2>  
               </blockquote>    
-              <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                                  
             </div>
           </div>
             </div> 
@@ -174,7 +171,6 @@
             <blockquote> 
             <h2>"STORMS AHEAD NASTY SEA, DEAD WINTER, ARTIC WINDS, RIGHTO, TO DUNEDIN THEY SAY!"</h2> 
             </blockquote>
-            <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth vboffset1">BOOK TODAY</a>                              
             </div>
 <!-- Flower image -->
           </div>

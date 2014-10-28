@@ -57,7 +57,7 @@
             <!-- Owner Image Ends -->
             <div class="col-md-8">
                 <p>Faye Winmill is the founder of Urban Calm Dunedin Yin Yoga Centre. 
-                Having practiced different forms of yoga for 10 years prior to committing 
+                Having practiced different forms of yoga for 7 years prior to committing 
                 herself to teaching, she decided to gain her certification in 2013 and studied 
                 at the Pavones Yoga Centre in Costa Rica. Her time in the jungle saw her obtain 
                 the 200 hour Yoga Alliance Certificate in Multi-dimentional Training as well as the 108 hour 
@@ -89,12 +89,6 @@
         <div class="row">
           <div class="col-md-10 col-md-offset-1">
               <h4>YIN YOGA DUNEDIN AND URBAN CALM</h4>
-              <p>Yin Yoga is a slow-paced style of yoga with poses (asanas) that are held for longer periods of time than in other styles—three 
-              to five minutes or even as long as twenty minutes is common. Yin asanas apply moderate and controlled stress to the connective tissues 
-              (the tendons, fascia and ligaments) with the aim of improving  flexibility and increasing circulation and hydration of the joints. 
-              As a slow, meditative and holistic practice Yin also cultivates a profound bodily and inner awareness, a silence, calm and equanimity 
-              which brings a peaceful interconnection to otherwise fragmented contemporary lifestyles.</p>
-
               <p>At Urban Calm Yin Yoga Dunedin we recognise that life (particularly contemporary urban life) has become fragmented and supersaturated with time pressures and performance demands.
                We all seem to be going at a hundred miles an hour, flitting from one activity or responsibility to the next. 
               This is not necessarily a bad thing: fulfilment can come from those activities and achievements at work and in social 

@@ -63,7 +63,7 @@
         </div>
         <div class="row"  id="owner">
             <div class="col-md-6 col-md-push-5 inpad">
-              <h3 class="text-center notice vboffset3">Uurban Calm Yin Yoga Dunedin also hosts International Teachers in 
+              <h3 class="text-center notice vboffset3">Urban Calm Yin Yoga Dunedin also hosts International Teachers in 
                 the field of yoga/higher learning self development.
               Please refer to our <a href="bookings.php" class="underline">Booking System</a> 
               and go to enrolments to see what's going on at UC.</h3>

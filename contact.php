@@ -113,7 +113,38 @@ if(isset($_POST['submit'])) {
             </div>
         </div>
       </div>
-<?php include 'inc/cta.inc.php';?>
+      <!-- Full CTA Section -->
+        <div class="col-sm-12">     
+                    <!-- Blockquote -->
+                    <div class="col-md-12 vboffset">
+                      <hr>
+                    <blockquote>
+                    <h2>"IT WAS AN AMAZINGLY COMFORTABLE FIRST CONTACT WITH YOGA AND IT HAS BECOME SO QUICKLY A PART OF MY LIFE. I LOOK FORWARD TO IT AND ALWAYS TAKE A SENSE OF 
+                      CALMNESS WITH ME AFTER HAVING SPENT AN HOUR HERE."</h2>
+                        <h2 class="person">ANON</h2>
+                        <!-- Float Fix div -->
+                        <div style="clear: both;"></div>
+                        <!-- Float Fix div ends -->
+                    </blockquote>
+                    <hr>
+                    </div>
+                    <!-- Blockquote End -->
+        </div>
+        <!-- Booking Info Ends -->
+        <!-- CTA Buttons -->
+        <div class="col-md-4 vboffset1">
+          <h3 class="text-center">TEACHER TRAINING</h3>
+            <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                  
+        </div>
+        <div class="col-md-4 vboffset1">
+          <h3 class="text-center">PAYMENTS ONLINE</h3>
+            <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                  
+        </div>
+        <div class="col-md-4 vboffset1">
+          <h3 class="text-center">BOOK YOUR CLASS</h3>
+            <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                  
+        </div>
+        <!-- Full CTA Buttons End -->
 <?php include 'inc/urban-div.inc.php';?>
 <?php include 'inc/mobfooter.inc.php';?>
 <!-- Container End -->
