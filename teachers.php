@@ -1,3 +1,4 @@
+<?php include 'inc/contact.inc.php';?>
 <!DOCTYPE html>
 <html lang="en">
 <!-- Php Head Begins -->

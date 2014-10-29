@@ -1,3 +1,4 @@
+<?php include 'inc/contact.inc.php';?>
 <!DOCTYPE html>
 <html lang="en">
 <!-- Php Head Begins -->
@@ -44,7 +45,7 @@
                   been for a class your information is already in so please use the LEFT hand side to Log In.</p>  
                 <p>What to Wear: Comfortable lose fitting clothing - (we don't create allot of sweat whilst practicing Yin)
                   Room always at a cosy temperature. </p>
-                <div><a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=130751" target="_blank" class="btn btn-default btn-lg center-block bwidth">BOOK NOW</a></div>        
+                <div><a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=130751" target="_blank" class="btn btn-default btn-lg center-block bwidth voffset">BOOK NOW</a></div>        
             </div>
             <!-- Booking Info Ends -->
           </div>

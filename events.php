@@ -1,3 +1,4 @@
+<?php include 'inc/contact.inc.php';?>
 <!DOCTYPE html>
 <html lang="en">
 <!-- Php Head Begins -->
@@ -63,11 +64,11 @@
         </div>
         <div class="row"  id="owner">
             <div class="col-md-6 col-md-push-5 inpad">
-              <h3 class="text-center notice vboffset3">Urban Calm Yin Yoga Dunedin also hosts International Teachers in 
+              <p class="text-center notice vboffset3">Urban Calm Yin Yoga Dunedin also hosts International Teachers in 
                 the field of yoga/higher learning self development.
               Please refer to our <a href="bookings.php" class="underline">Booking System</a> 
-              and go to enrolments to see what's going on at UC.</h3>
-            <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset1">BOOK TODAY</a>                  
+              and go to enrolments to see what's going on at UC.</p>
+            <a href="bookings.php" class="btn btn-default btn-lg center-block bwidth voffset">BOOK TODAY</a>                  
             </div>
 <!--Owner image -->
               <div class="col-md-2 col-md-pull-5">
